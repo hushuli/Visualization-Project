@@ -8,12 +8,13 @@ After checking the data, the column ‘ethn_desc’ has unknown value which is m
 
 2.	The Vice Provost for Undergraduate Education wants to know how the student body has changed over time. Create two graphs addressing this question.
 
-![data](/img/Student body change 1.png)
-![data](/img/Student body change 2.png)
+![data](/img/Student-body-change-1.png)
+
+![data](/img/Student-body-change-2.png)
 
 3.	The Associate Dean for the College of Biological Sciences is concerned that their students may take longer to graduate than students in other colleges. Create a graph confirming or contradicting this theory.
 
-![data](/img/Graduation time.png)
+![data](/img/Graduation-time.png)
 
 For the freshman, majority of BI and other college have same time length to graduate, so the average graduate time about same. But BI had larger outlier than other college.
 For the transfer student, BI college students have longer time to graduate compare with other college. And BI had quite big different about length of graduation time. Maybe some people prepare well in the previous school, so they could graduate earlier. 
