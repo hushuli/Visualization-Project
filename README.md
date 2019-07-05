@@ -6,11 +6,15 @@
 
 After checking the data, the column ‘ethn_desc’ has unknown value which is missing value as well but it is not easy to detect it. And column ‘first degree term’ and ‘graduate college’ has same amount missing value.
 
+
+
 2.	The Vice Provost for Undergraduate Education wants to know how the student body has changed over time. Create two graphs addressing this question.
 
 ![data](/img/Student-body-change-1.png)
 
 ![data](/img/Student-body-change-2.png)
+
+
 
 3.	The Associate Dean for the College of Biological Sciences is concerned that their students may take longer to graduate than students in other colleges. Create a graph confirming or contradicting this theory.
 
