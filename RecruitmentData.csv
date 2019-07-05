@@ -1,0 +1,1423 @@
+admit_term,admit_level,gender,ethn_desc,is_urm,first_generation,low_income,first_term_college,first_degree_term,graduation_college,id
+201110,Freshman,F,White/Caucasian,0,1,0,LS,NA,NA,1
+201110,Freshman,F,Filipino/Filipino-American,0,0,0,BI,201503,BI,2
+201110,Transfer,M,White/Caucasian,0,1,1,LS,201310,LS,3
+201110,Freshman,F,Latino/Other Spanish,1,0,0,AE,201503,AE,4
+201110,Transfer,F,East Indian/Pakistani,0,1,NA,LS,201303,LS,6
+201110,Transfer,F,White/Caucasian,0,0,NA,AE,201307,AE,7
+201110,Freshman,F,White/Caucasian,0,0,0,AE,201503,AE,8
+201110,Freshman,M,Vietnamese,0,0,1,LS,NA,NA,9
+201110,Transfer,M,White/Caucasian,0,0,NA,EN,201303,EN,10
+201110,Freshman,M,Chinese-American/Chinese,0,0,1,EN,201503,EN,11
+201110,Transfer,M,Other Asian,0,1,NA,BI,201301,BI,12
+201110,Transfer,M,White/Caucasian,0,1,NA,LS,201507,LS,13
+201110,Transfer,F,Chinese-American/Chinese,0,1,0,AE,201407,AE,14
+201110,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201503,AE,15
+201110,Freshman,F,Chinese-American/Chinese,0,0,0,BI,201503,AE,16
+201110,Freshman,F,Chinese-American/Chinese,0,1,1,EN,201607,EN,17
+201110,Freshman,F,Vietnamese,0,0,0,AE,201503,AE,18
+201110,Transfer,M,Japanese American/Japanese,0,0,0,BI,201307,BI,19
+201110,Freshman,F,White/Caucasian,0,NA,0,LS,201407,LS,20
+201110,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201503,AE,21
+201110,Freshman,F,Chinese-American/Chinese,0,1,1,LS,201503,AE,22
+201110,Freshman,M,East Indian/Pakistani,0,0,0,EN,201503,EN,23
+201110,Transfer,M,Latino/Other Spanish,1,1,NA,EN,201410,EN,24
+201110,Transfer,M,White/Caucasian,0,1,NA,LS,201407,LS,25
+201110,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201510,BI,26
+201110,Freshman,F,East Indian/Pakistani,0,0,0,BI,201603,BI,27
+201110,Freshman,M,Latino/Other Spanish,1,1,NA,AE,201610,LS,28
+201110,Freshman,M,Korean-American/Korean,0,1,0,BI,NA,NA,29
+201110,Freshman,M,Vietnamese,0,1,1,BI,201503,BI,30
+201110,Freshman,M,Latino/Other Spanish,1,1,1,AE,NA,NA,31
+201110,Freshman,F,Other Asian,0,1,1,BI,201603,BI,32
+201110,Transfer,F,African-American/Black,1,1,NA,LS,201503,LS,33
+201110,Transfer,F,Chinese-American/Chinese,0,1,NA,LS,201301,LS,34
+201110,Transfer,F,Filipino/Filipino-American,0,0,0,AE,201307,BI,35
+201110,Freshman,M,Korean-American/Korean,0,NA,0,AE,201510,LS,36
+201110,Freshman,F,White/Caucasian,0,0,NA,AE,201503,AE,37
+201110,Freshman,F,Other Asian,0,1,0,BI,201503,BI,38
+201110,Freshman,F,White/Caucasian,0,1,NA,BI,201507,BI,39
+201110,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,EN,201603,AE,40
+201110,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,NA,NA,41
+201110,Freshman,F,East Indian/Pakistani,0,1,1,BI,NA,NA,42
+201110,Freshman,F,White/Caucasian,0,0,0,AE,201603,AE,43
+201110,Freshman,F,Korean-American/Korean,0,1,1,BI,201503,LS,44
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,201603,BI,45
+201110,Freshman,M,Chinese-American/Chinese,0,1,0,LS,201510,LS,46
+201110,Freshman,F,Chinese-American/Chinese,0,1,1,AE,201501,AE,47
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,EN,201510,EN,48
+201110,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,AE,201603,AE,49
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,201603,LS,50
+201110,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,NA,LS,NA,NA,51
+201110,Freshman,F,Vietnamese,0,1,1,LS,201510,LS,52
+201110,Freshman,F,Latino/Other Spanish,1,0,0,AE,201503,LS,53
+201110,Transfer,F,White/Caucasian,0,1,NA,LS,NA,NA,54
+201110,Transfer,F,East Indian/Pakistani,0,1,0,AE,201410,LS,55
+201110,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,0,BI,201710,LS,56
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,201503,AE,57
+201110,Freshman,F,Latino/Other Spanish,1,0,0,LS,201503,LS,58
+201110,Transfer,F,White/Caucasian,0,1,NA,LS,201310,LS,59
+201110,Freshman,M,Chinese-American/Chinese,0,0,0,BI,201603,LS,61
+201110,Freshman,F,Korean-American/Korean,0,0,0,BI,201501,BI,62
+201110,Freshman,M,White/Caucasian,0,0,0,LS,201503,LS,63
+201110,Freshman,F,White/Caucasian,0,0,1,BI,201603,BI,64
+201110,Transfer,F,Other Asian,0,1,NA,EN,201303,EN,65
+201110,Freshman,M,Filipino/Filipino-American,0,0,0,BI,201601,BI,66
+201110,Transfer,M,Chinese-American/Chinese,0,1,1,AE,201303,AE,67
+201110,Freshman,F,White/Caucasian,0,0,0,AE,201601,AE,68
+201110,Freshman,F,White/Caucasian,0,0,NA,AE,201503,AE,69
+201110,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201503,LS,70
+201110,Freshman,F,Chinese-American/Chinese,0,1,1,BI,201510,BI,71
+201110,Transfer,F,White/Caucasian,0,0,NA,BI,201303,BI,72
+201110,Freshman,M,Chinese-American/Chinese,0,1,0,BI,201603,BI,73
+201110,Freshman,F,Chinese-American/Chinese,0,1,1,AE,201507,AE,74
+201110,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201310,LS,75
+201110,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,201603,AE,76
+201110,Freshman,M,White/Caucasian,0,0,0,BI,201503,BI,77
+201110,Transfer,M,White/Caucasian,0,0,0,LS,NA,NA,78
+201110,Freshman,M,White/Caucasian,0,0,1,EN,201507,LS,79
+201110,Freshman,M,Latino/Other Spanish,1,1,NA,AE,201603,AE,80
+201110,Freshman,F,Chinese-American/Chinese,0,1,0,AE,201503,AE,81
+201110,Transfer,M,White/Caucasian,0,0,1,LS,201303,LS,82
+201110,Freshman,F,White/Caucasian,0,0,NA,LS,NA,NA,83
+201110,Freshman,F,White/Caucasian,0,1,0,BI,201510,LS,84
+201110,Freshman,M,Chinese-American/Chinese,0,1,1,LS,201510,AE,85
+201110,Transfer,F,East Indian/Pakistani,0,0,0,LS,201310,LS,86
+201110,Transfer,M,Japanese American/Japanese,0,1,NA,LS,201303,LS,87
+201110,Freshman,F,Vietnamese,0,1,1,AE,201607,LS,88
+201110,Transfer,F,White/Caucasian,0,1,0,LS,201303,LS,89
+201110,Freshman,F,Chinese-American/Chinese,0,0,NA,LS,NA,NA,90
+201110,Freshman,M,Korean-American/Korean,0,1,0,AE,201607,LS,91
+201110,Transfer,F,Chinese-American/Chinese,0,1,NA,LS,201301,LS,92
+201110,Transfer,F,Other Asian,0,0,0,LS,201303,LS,93
+201110,Freshman,F,Chinese-American/Chinese,0,0,NA,BI,201503,BI,94
+201110,Freshman,M,Korean-American/Korean,0,1,1,LS,201603,LS,95
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,NA,AE,201503,AE,96
+201110,Freshman,F,Latino/Other Spanish,1,0,1,LS,NA,NA,97
+201110,Freshman,F,Filipino/Filipino-American,0,0,0,AE,NA,NA,98
+201110,Freshman,M,White/Caucasian,0,0,NA,AE,201510,LS,99
+201110,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,201303,AE,100
+201110,Transfer,M,African-American/Black,1,0,0,LS,201303,LS,101
+201110,Transfer,M,White/Caucasian,0,0,0,AE,201407,AE,102
+201110,Freshman,F,Vietnamese,0,1,1,BI,201507,LS,103
+201110,Freshman,F,Chinese-American/Chinese,0,1,0,EN,NA,NA,104
+201110,Transfer,M,White/Caucasian,0,0,0,LS,201307,LS,105
+201110,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,NA,LS,201403,LS,106
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,107
+201110,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,EN,201607,EN,108
+201110,Freshman,F,White/Caucasian,0,0,0,EN,201503,EN,109
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,AE,201503,AE,110
+201110,Transfer,F,Filipino/Filipino-American,0,0,1,LS,201301,LS,111
+201110,Transfer,M,White/Caucasian,0,0,0,LS,201403,LS,112
+201110,Freshman,F,Chinese-American/Chinese,0,1,0,BI,201603,BI,113
+201110,Freshman,F,Japanese American/Japanese,0,NA,0,AE,201503,AE,114
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,BI,201503,LS,115
+201110,Transfer,F,White/Caucasian,0,0,NA,LS,201401,LS,116
+201110,Freshman,F,White/Caucasian,0,0,0,BI,201501,BI,117
+201110,Freshman,F,East Indian/Pakistani,0,1,0,LS,NA,NA,118
+201110,Transfer,F,White/Caucasian,0,0,0,LS,201307,LS,119
+201110,Transfer,M,White/Caucasian,0,0,NA,BI,NA,NA,120
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,121
+201110,Freshman,M,Filipino/Filipino-American,0,0,NA,LS,201510,LS,122
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,BI,201503,LS,123
+201110,Transfer,M,White/Caucasian,0,0,1,LS,201703,LS,124
+201110,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,201503,BI,125
+201110,Freshman,F,Other Asian,0,1,1,BI,201703,BI,126
+201110,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201410,AE,127
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201503,LS,128
+201110,Transfer,F,Chinese-American/Chinese,0,1,0,LS,201303,LS,129
+201110,Freshman,M,Chinese-American/Chinese,0,1,0,EN,NA,NA,130
+201110,Freshman,F,Chinese-American/Chinese,0,1,1,AE,201503,AE,131
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,1,BI,201607,LS,132
+201110,Transfer,M,Latino/Other Spanish,1,0,0,EN,201310,EN,133
+201110,Freshman,M,Vietnamese,0,1,1,EN,201507,LS,134
+201110,Transfer,F,Chinese-American/Chinese,0,0,NA,LS,201310,LS,135
+201110,Freshman,F,Vietnamese,0,0,0,BI,201503,BI,136
+201110,Transfer,M,Chinese-American/Chinese,0,1,1,AE,NA,NA,137
+201110,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,201303,BI,138
+201110,Transfer,M,East Indian/Pakistani,0,1,1,LS,201403,LS,139
+201110,Transfer,M,Chinese-American/Chinese,0,1,1,EN,201303,EN,140
+201110,Freshman,M,White/Caucasian,0,0,0,LS,201503,LS,141
+201110,Transfer,M,East Indian/Pakistani,0,1,1,LS,201303,LS,142
+201110,Freshman,F,Other Asian,0,1,NA,BI,NA,NA,143
+201110,Transfer,M,Mexican-Am/Mexican/Chicano,1,0,0,LS,201303,LS,144
+201110,Freshman,F,Other Asian,0,1,0,BI,201603,AE,145
+201110,Freshman,M,East Indian/Pakistani,0,1,NA,BI,201603,BI,146
+201110,Freshman,M,White/Caucasian,0,0,0,EN,201503,EN,147
+201110,Transfer,F,White/Caucasian,0,1,0,BI,201403,BI,148
+201110,Freshman,F,Unknown,NA,1,1,LS,201503,LS,149
+201110,Transfer,F,Latino/Other Spanish,1,0,0,BI,201303,BI,150
+201110,Freshman,M,Vietnamese,0,1,1,BI,201507,BI,151
+201110,Transfer,M,Korean-American/Korean,0,0,0,LS,NA,NA,152
+201110,Freshman,M,White/Caucasian,0,0,0,EN,201503,AE,153
+201110,Freshman,M,White/Caucasian,0,0,0,EN,201503,EN,154
+201110,Freshman,M,Korean-American/Korean,0,1,0,BI,NA,NA,155
+201110,Freshman,F,Other Asian,0,0,0,AE,201510,AE,156
+201110,Transfer,F,White/Caucasian,0,1,NA,LS,201303,LS,157
+201110,Freshman,M,White/Caucasian,0,0,NA,EN,201503,EN,158
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201503,AE,159
+201110,Freshman,M,White/Caucasian,0,1,0,EN,201503,BI,161
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,BI,201503,BI,162
+201110,Transfer,M,Latino/Other Spanish,1,1,1,LS,201303,LS,163
+201110,Freshman,M,Chinese-American/Chinese,0,0,NA,AE,NA,NA,164
+201110,Freshman,F,Japanese American/Japanese,0,0,0,AE,201503,AE,165
+201110,Freshman,M,Chinese-American/Chinese,0,0,NA,BI,NA,NA,166
+201110,Transfer,F,White/Caucasian,0,0,1,LS,201407,LS,167
+201110,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,201310,LS,168
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,1,LS,NA,NA,169
+201110,Transfer,F,White/Caucasian,0,0,0,AE,201407,AE,170
+201110,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201503,AE,171
+201110,Freshman,F,Vietnamese,0,1,1,BI,201501,LS,172
+201110,Freshman,M,African-American/Black,1,0,0,EN,201510,EN,173
+201110,Transfer,M,White/Caucasian,0,0,0,LS,201303,LS,174
+201110,Freshman,F,Chinese-American/Chinese,0,1,0,LS,201507,BI,175
+201110,Transfer,F,Chinese-American/Chinese,0,1,0,AE,201507,LS,176
+201110,Transfer,M,Chinese-American/Chinese,0,0,NA,LS,201301,LS,177
+201110,Freshman,F,Chinese-American/Chinese,0,1,1,BI,201510,LS,178
+201110,Transfer,M,White/Caucasian,0,0,NA,LS,201407,LS,179
+201110,Freshman,F,White/Caucasian,0,0,0,LS,201503,BI,180
+201110,Transfer,F,White/Caucasian,0,1,NA,AE,201210,AE,181
+201110,Freshman,M,Vietnamese,0,0,0,LS,201501,BI,182
+201110,Freshman,M,Chinese-American/Chinese,0,0,NA,AE,201503,LS,184
+201110,Freshman,F,Latino/Other Spanish,1,0,NA,LS,201510,BI,185
+201110,Freshman,M,Chinese-American/Chinese,0,1,0,AE,201503,BI,186
+201110,Transfer,M,White/Caucasian,0,0,0,LS,201307,LS,187
+201110,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,EN,NA,NA,188
+201110,Transfer,M,Chinese-American/Chinese,0,0,0,AE,201303,AE,189
+201110,Freshman,F,White/Caucasian,0,0,0,LS,201503,AE,190
+201110,Transfer,F,White/Caucasian,0,0,0,BI,201310,BI,191
+201110,Freshman,F,White/Caucasian,0,0,1,BI,201503,AE,192
+201110,Freshman,M,Japanese American/Japanese,0,0,NA,LS,201503,LS,193
+201110,Transfer,F,Latino/Other Spanish,1,1,0,BI,201003,BI,194
+201110,Freshman,F,Filipino/Filipino-American,0,0,0,LS,201501,LS,195
+201110,Transfer,M,White/Caucasian,0,1,0,BI,201303,BI,196
+201110,Transfer,M,White/Caucasian,0,0,0,LS,201303,LS,197
+201110,Freshman,F,Unknown,NA,0,NA,BI,201503,BI,198
+201110,Transfer,M,White/Caucasian,0,0,0,LS,201303,LS,199
+201110,Transfer,F,Chinese-American/Chinese,0,0,0,AE,201401,AE,200
+201110,Transfer,F,White/Caucasian,0,0,0,LS,201403,LS,201
+201110,Freshman,F,Other Asian,0,1,1,BI,NA,NA,202
+201110,Freshman,M,Chinese-American/Chinese,0,0,NA,LS,201501,LS,203
+201110,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,NA,BI,201303,BI,204
+201110,Freshman,F,Latino/Other Spanish,1,0,1,LS,201510,LS,205
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,BI,201701,LS,206
+201110,Transfer,F,Other Asian,0,1,0,AE,201401,AE,207
+201110,Freshman,F,White/Caucasian,0,0,0,BI,201503,BI,208
+201110,Freshman,M,Korean-American/Korean,0,0,0,EN,NA,NA,209
+201110,Freshman,F,Chinese-American/Chinese,0,0,NA,AE,201601,AE,210
+201110,Transfer,M,Filipino/Filipino-American,0,0,0,LS,201310,LS,211
+201110,Freshman,F,East Indian/Pakistani,0,0,0,EN,201503,EN,212
+201110,Transfer,M,White/Caucasian,0,1,0,LS,201303,LS,213
+201110,Freshman,F,White/Caucasian,0,0,0,AE,201503,LS,214
+201110,Transfer,M,Unknown,NA,0,0,AE,201303,AE,215
+201110,Freshman,M,Latino/Other Spanish,1,1,0,LS,201503,LS,216
+201110,Transfer,M,White/Caucasian,0,0,NA,LS,201301,LS,217
+201110,Freshman,F,East Indian/Pakistani,0,0,0,BI,201603,LS,218
+201110,Transfer,F,White/Caucasian,0,0,0,LS,201210,LS,219
+201110,Transfer,M,Vietnamese,0,1,1,EN,201303,EN,220
+201110,Transfer,M,White/Caucasian,0,0,NA,LS,201303,LS,221
+201110,Freshman,F,East Indian/Pakistani,0,0,0,AE,NA,NA,222
+201110,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,201403,AE,223
+201110,Freshman,F,Chinese-American/Chinese,0,NA,NA,BI,201510,BI,224
+201110,Transfer,M,Unknown,NA,1,NA,LS,201303,LS,225
+201110,Freshman,M,Filipino/Filipino-American,0,0,0,EN,201503,EN,226
+201110,Transfer,M,Other Asian,0,0,0,LS,201307,LS,227
+201110,Freshman,F,African-American/Black,1,0,1,LS,NA,NA,228
+201110,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,201303,BI,229
+201110,Freshman,M,Chinese-American/Chinese,0,0,1,EN,201601,EN,230
+201110,Freshman,M,African-American/Black,1,0,0,EN,201510,AE,231
+201110,Freshman,M,White/Caucasian,0,0,0,EN,201603,EN,232
+201110,Transfer,F,White/Caucasian,0,0,NA,AE,201307,AE,233
+201110,Freshman,M,Other Asian,0,1,0,LS,201503,AE,234
+201110,Freshman,M,White/Caucasian,0,0,0,LS,201503,LS,235
+201110,Freshman,M,East Indian/Pakistani,0,0,0,BI,201503,BI,236
+201110,Freshman,F,Filipino/Filipino-American,0,1,1,EN,NA,NA,237
+201110,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,AE,201303,AE,238
+201110,Freshman,M,East Indian/Pakistani,0,1,1,BI,201510,AE,239
+201110,Freshman,F,Chinese-American/Chinese,0,1,0,BI,201503,BI,240
+201110,Freshman,F,White/Caucasian,0,0,0,LS,201507,LS,241
+201110,Freshman,F,African-American/Black,1,1,0,BI,201503,AE,242
+201110,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,201407,LS,243
+201110,Transfer,M,Filipino/Filipino-American,0,1,0,LS,201303,LS,244
+201110,Transfer,F,Chinese-American/Chinese,0,0,NA,LS,201303,LS,245
+201110,Freshman,M,Latino/Other Spanish,1,1,1,LS,201607,EN,246
+201110,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,201507,LS,247
+201110,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,AE,NA,NA,248
+201110,Freshman,F,White/Caucasian,0,1,0,AE,201503,BI,249
+201110,Transfer,F,White/Caucasian,0,0,0,LS,201303,LS,250
+201110,Transfer,M,White/Caucasian,0,0,NA,LS,201307,LS,251
+201110,Freshman,M,White/Caucasian,0,0,1,LS,201503,LS,252
+201110,Freshman,M,Unknown,NA,0,0,EN,201503,EN,253
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,1,AE,201610,LS,254
+201210,Freshman,F,Vietnamese,0,0,0,AE,201603,AE,255
+201210,Transfer,M,White/Caucasian,0,0,0,AE,NA,NA,256
+201210,Transfer,M,White/Caucasian,0,0,0,LS,201403,LS,257
+201210,Transfer,M,White/Caucasian,0,0,0,BI,201407,BI,258
+201210,Freshman,M,Filipino/Filipino-American,0,0,0,LS,201603,LS,259
+201210,Freshman,M,White/Caucasian,0,0,0,AE,201610,LS,260
+201210,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,261
+201210,Freshman,M,Filipino/Filipino-American,0,0,0,BI,201603,BI,262
+201210,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,NA,NA,263
+201210,Transfer,F,East Indian/Pakistani,0,1,0,BI,201507,BI,264
+201210,Transfer,F,White/Caucasian,0,0,0,LS,201403,LS,265
+201210,Transfer,M,Chinese-American/Chinese,0,1,1,LS,201603,LS,266
+201210,Freshman,M,Chinese-American/Chinese,0,0,0,BI,201703,EN,267
+201210,Freshman,F,Other Asian,0,0,0,LS,NA,NA,268
+201210,Transfer,M,Chinese-American/Chinese,0,1,NA,LS,201310,LS,269
+201210,Freshman,M,Chinese-American/Chinese,0,1,1,LS,201603,LS,270
+201210,Freshman,F,Latino/Other Spanish,1,1,1,AE,201710,AE,271
+201210,Freshman,F,Vietnamese,0,1,NA,LS,201603,LS,272
+201210,Transfer,M,Unknown,NA,NA,0,AE,NA,NA,273
+201210,Transfer,M,Filipino/Filipino-American,0,0,0,AE,201501,AE,274
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,AE,201703,EN,275
+201210,Freshman,M,Chinese-American/Chinese,0,0,0,EN,201603,EN,276
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,EN,201603,EN,277
+201210,Transfer,M,White/Caucasian,0,0,0,LS,201407,LS,278
+201210,Transfer,F,Filipino/Filipino-American,0,1,0,BI,201407,BI,279
+201210,Transfer,F,Japanese American/Japanese,0,1,0,LS,201407,LS,280
+201210,Freshman,F,Vietnamese,0,0,0,BI,201607,BI,281
+201210,Freshman,M,Vietnamese,0,1,1,LS,NA,NA,282
+201210,Freshman,M,Japanese American/Japanese,0,0,0,BI,NA,NA,283
+201210,Freshman,M,Other Asian,0,1,0,LS,201710,AE,284
+201210,Freshman,F,Filipino/Filipino-American,0,0,0,BI,201610,BI,285
+201210,Transfer,F,White/Caucasian,0,1,0,BI,201507,BI,286
+201210,Freshman,M,Korean-American/Korean,0,1,0,AE,201701,AE,287
+201210,Transfer,F,White/Caucasian,0,1,1,BI,201403,BI,288
+201210,Freshman,F,White/Caucasian,0,0,NA,AE,201610,AE,289
+201210,Transfer,M,Korean-American/Korean,0,0,NA,LS,201503,LS,290
+201210,Freshman,M,East Indian/Pakistani,0,0,1,BI,201603,BI,291
+201210,Freshman,F,Latino/Other Spanish,1,0,0,EN,NA,NA,292
+201210,Freshman,M,Vietnamese,0,1,1,BI,201610,BI,293
+201210,Transfer,M,Chinese-American/Chinese,0,1,1,EN,201403,EN,294
+201210,Freshman,F,White/Caucasian,0,0,0,AE,201603,AE,295
+201210,Transfer,M,White/Caucasian,0,0,NA,EN,NA,NA,296
+201210,Transfer,F,White/Caucasian,0,0,0,AE,201503,AE,297
+201210,Freshman,F,White/Caucasian,0,0,0,BI,201607,AE,298
+201210,Transfer,F,Latino/Other Spanish,1,1,1,LS,NA,NA,299
+201210,Transfer,M,Chinese-American/Chinese,0,0,0,AE,201403,AE,300
+201210,Transfer,M,White/Caucasian,0,0,0,EN,201410,EN,301
+201210,Freshman,F,Latino/Other Spanish,1,1,1,LS,201703,BI,302
+201210,Transfer,M,Mexican-Am/Mexican/Chicano,1,0,0,LS,201403,LS,303
+201210,Transfer,M,African-American/Black,1,0,0,LS,201403,LS,304
+201210,Freshman,F,White/Caucasian,0,0,1,AE,201607,AE,305
+201210,Transfer,F,Chinese-American/Chinese,0,1,1,LS,201410,LS,306
+201210,Freshman,F,White/Caucasian,0,0,0,AE,201610,AE,307
+201210,Freshman,F,Vietnamese,0,1,1,LS,NA,NA,308
+201210,Transfer,F,Chinese-American/Chinese,0,1,NA,LS,201403,LS,309
+201210,Freshman,F,White/Caucasian,0,0,0,BI,201603,LS,310
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,311
+201210,Freshman,M,Other Asian,0,0,0,LS,NA,NA,312
+201210,Freshman,M,White/Caucasian,0,1,1,BI,201603,BI,313
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,EN,201603,LS,314
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,0,LS,201603,LS,315
+201210,Freshman,F,Chinese-American/Chinese,0,1,1,LS,201507,LS,316
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,BI,201603,BI,317
+201210,Transfer,M,African-American/Black,1,1,0,AE,201410,LS,318
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201603,LS,319
+201210,Transfer,F,White/Caucasian,0,0,0,BI,201503,BI,320
+201210,Freshman,M,East Indian/Pakistani,0,1,1,BI,201603,BI,321
+201210,Transfer,F,White/Caucasian,0,0,0,AE,201403,AE,322
+201210,Transfer,M,White/Caucasian,0,1,0,LS,201403,LS,323
+201210,Freshman,M,Other Asian,0,0,0,EN,201603,EN,324
+201210,Freshman,F,Vietnamese,0,0,0,LS,201603,LS,325
+201210,Freshman,M,White/Caucasian,0,0,NA,BI,201603,BI,326
+201210,Transfer,F,Japanese American/Japanese,0,1,0,LS,201403,LS,327
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,AE,NA,NA,328
+201210,Transfer,M,Mexican-Am/Mexican/Chicano,1,0,NA,LS,NA,NA,329
+201210,Freshman,F,Vietnamese,0,0,1,BI,201610,LS,330
+201210,Transfer,M,Unknown,NA,0,NA,AE,201410,AE,331
+201210,Transfer,F,Chinese-American/Chinese,0,0,0,LS,201410,LS,332
+201210,Freshman,F,White/Caucasian,0,0,0,BI,201603,LS,333
+201210,Freshman,M,Chinese-American/Chinese,0,NA,NA,BI,201607,EN,334
+201210,Transfer,M,Vietnamese,0,1,1,LS,201501,LS,335
+201210,Transfer,F,Chinese-American/Chinese,0,0,0,LS,201410,LS,336
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201603,EN,337
+201210,Freshman,F,White/Caucasian,0,0,0,AE,201603,AE,338
+201210,Freshman,M,Other Asian,0,0,0,BI,201603,AE,339
+201210,Freshman,F,White/Caucasian,0,0,0,LS,201603,AE,340
+201210,Transfer,F,Chinese-American/Chinese,0,1,NA,LS,201403,LS,341
+201210,Freshman,M,East Indian/Pakistani,0,1,0,BI,NA,NA,342
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,BI,201707,LS,343
+201210,Transfer,F,White/Caucasian,0,0,0,LS,201403,LS,344
+201210,Freshman,M,African-American/Black,1,0,0,BI,201603,AE,345
+201210,Transfer,F,Chinese-American/Chinese,0,0,NA,BI,201407,BI,346
+201210,Transfer,F,White/Caucasian,0,NA,NA,BI,201403,BI,347
+201210,Transfer,M,Chinese-American/Chinese,0,0,0,LS,201503,LS,348
+201210,Transfer,M,Other Asian,0,1,1,LS,201403,LS,349
+201210,Transfer,F,Chinese-American/Chinese,0,1,1,LS,201410,LS,350
+201210,Freshman,M,Latino/Other Spanish,1,1,NA,EN,NA,NA,351
+201210,Transfer,M,East Indian/Pakistani,0,NA,1,LS,NA,NA,352
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,NA,1,AE,201603,AE,353
+201210,Freshman,F,Chinese-American/Chinese,0,1,1,EN,201703,AE,354
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,LS,NA,NA,355
+201210,Freshman,M,White/Caucasian,0,0,0,EN,201603,EN,356
+201210,Freshman,M,Vietnamese,0,1,1,LS,NA,NA,357
+201210,Freshman,F,Chinese-American/Chinese,0,1,0,AE,201507,AE,358
+201210,Freshman,F,White/Caucasian,0,1,NA,BI,201607,LS,359
+201210,Freshman,F,White/Caucasian,0,0,0,LS,201601,LS,360
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,361
+201210,Freshman,M,Filipino/Filipino-American,0,0,0,AE,201703,LS,362
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201610,EN,363
+201210,Freshman,M,Korean-American/Korean,0,0,0,BI,201607,AE,364
+201210,Freshman,F,White/Caucasian,0,0,NA,EN,NA,NA,365
+201210,Freshman,F,Filipino/Filipino-American,0,0,0,BI,201701,AE,366
+201210,Transfer,M,Chinese-American/Chinese,0,0,0,LS,201503,LS,367
+201210,Freshman,F,Vietnamese,0,1,1,BI,201610,AE,368
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,201603,LS,369
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201603,LS,370
+201210,Freshman,F,White/Caucasian,0,0,NA,AE,201603,AE,371
+201210,Freshman,F,White/Caucasian,0,0,0,AE,201603,AE,372
+201210,Transfer,M,Mexican-Am/Mexican/Chicano,1,0,0,LS,201407,LS,373
+201210,Freshman,F,Vietnamese,0,1,1,LS,201603,LS,374
+201210,Freshman,M,White/Caucasian,0,0,0,LS,201603,LS,375
+201210,Transfer,F,White/Caucasian,0,1,0,AE,201410,AE,376
+201210,Freshman,F,Latino/Other Spanish,1,1,0,AE,201703,AE,377
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201603,LS,378
+201210,Freshman,F,Latino/Other Spanish,1,0,0,LS,201603,LS,379
+201210,Transfer,F,East Indian/Pakistani,0,1,1,BI,201601,BI,380
+201210,Transfer,M,Mexican-Am/Mexican/Chicano,1,0,NA,LS,201407,LS,381
+201210,Transfer,F,African-American/Black,1,0,1,LS,201410,LS,382
+201210,Freshman,F,African-American/Black,1,0,0,LS,NA,NA,383
+201210,Transfer,F,Filipino/Filipino-American,0,1,1,AE,NA,NA,384
+201210,Freshman,M,Chinese-American/Chinese,0,0,NA,BI,201603,BI,385
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201707,AE,386
+201210,Freshman,M,White/Caucasian,0,0,0,BI,201603,BI,387
+201210,Freshman,F,White/Caucasian,0,0,0,BI,201610,BI,388
+201210,Transfer,M,Mexican-Am/Mexican/Chicano,1,0,NA,AE,NA,NA,389
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,EN,201610,EN,390
+201210,Transfer,M,Chinese-American/Chinese,0,1,1,BI,NA,NA,391
+201210,Transfer,F,East Indian/Pakistani,0,0,NA,LS,201403,LS,393
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201603,AE,394
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,395
+201210,Freshman,F,Japanese American/Japanese,0,0,0,LS,NA,NA,396
+201210,Freshman,M,Chinese-American/Chinese,0,0,0,LS,201603,LS,397
+201210,Freshman,M,Filipino/Filipino-American,0,0,0,EN,201610,EN,398
+201210,Transfer,M,Chinese-American/Chinese,0,0,0,LS,201407,LS,399
+201210,Freshman,F,Japanese American/Japanese,0,1,0,LS,201603,LS,400
+201210,Freshman,M,Korean-American/Korean,0,0,0,LS,201710,AE,401
+201210,Transfer,M,Vietnamese,0,1,1,LS,201410,AE,402
+201210,Freshman,M,Other Asian,0,1,1,EN,201607,EN,403
+201210,Freshman,F,White/Caucasian,0,0,1,AE,201603,AE,404
+201210,Freshman,F,White/Caucasian,0,0,0,EN,201603,EN,405
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,406
+201210,Transfer,M,White/Caucasian,0,1,1,AE,201503,AE,407
+201210,Freshman,M,White/Caucasian,0,0,0,BI,201603,BI,408
+201210,Freshman,M,White/Caucasian,0,1,1,EN,201703,LS,409
+201210,Freshman,M,Chinese-American/Chinese,0,0,0,LS,201703,LS,410
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201607,AE,411
+201210,Transfer,M,White/Caucasian,0,0,1,EN,201403,EN,412
+201210,Freshman,M,Vietnamese,0,1,1,LS,201701,AE,413
+201210,Freshman,F,Other Asian,0,0,1,BI,201603,BI,414
+201210,Freshman,F,Filipino/Filipino-American,0,0,0,AE,201607,AE,415
+201210,Freshman,F,Japanese American/Japanese,0,0,0,BI,201603,BI,416
+201210,Freshman,M,East Indian/Pakistani,0,0,0,EN,201603,EN,417
+201210,Freshman,F,East Indian/Pakistani,0,0,0,BI,201603,BI,418
+201210,Transfer,M,Filipino/Filipino-American,0,0,0,LS,201403,LS,419
+201210,Freshman,M,White/Caucasian,0,0,NA,LS,201603,EN,420
+201210,Freshman,F,Latino/Other Spanish,1,1,1,AE,NA,NA,421
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,LS,201603,LS,422
+201210,Freshman,M,White/Caucasian,0,0,0,AE,NA,NA,423
+201210,Freshman,M,Vietnamese,0,0,0,AE,NA,NA,424
+201210,Freshman,M,Latino/Other Spanish,1,0,0,EN,201610,EN,425
+201210,Transfer,F,Chinese-American/Chinese,0,0,0,AE,201403,AE,426
+201210,Transfer,F,Latino/Other Spanish,1,1,0,AE,201501,AE,427
+201210,Freshman,M,White/Caucasian,0,0,0,EN,201603,EN,428
+201210,Freshman,M,White/Caucasian,0,0,0,BI,201503,BI,429
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,430
+201210,Freshman,F,East Indian/Pakistani,0,0,0,BI,201603,BI,431
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201607,AE,432
+201210,Freshman,F,Filipino/Filipino-American,0,0,0,LS,201510,LS,433
+201210,Freshman,F,White/Caucasian,0,0,0,BI,NA,NA,434
+201210,Transfer,M,White/Caucasian,0,1,1,LS,201403,LS,435
+201210,Transfer,F,Chinese-American/Chinese,0,0,0,LS,201503,AE,436
+201210,Transfer,F,Filipino/Filipino-American,0,1,0,LS,201403,LS,437
+201210,Transfer,F,Chinese-American/Chinese,0,1,0,AE,201503,AE,438
+201210,Freshman,F,Filipino/Filipino-American,0,0,0,EN,NA,NA,439
+201210,Transfer,F,Chinese-American/Chinese,0,0,NA,LS,NA,NA,440
+201210,Freshman,M,White/Caucasian,0,0,0,LS,201601,LS,441
+201210,Freshman,M,African-American/Black,1,0,0,LS,NA,NA,442
+201210,Transfer,F,African-American/Black,1,1,0,LS,201410,LS,443
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201607,BI,444
+201210,Freshman,M,White/Caucasian,0,0,0,BI,201610,LS,445
+201210,Transfer,M,East Indian/Pakistani,0,0,NA,BI,201501,BI,446
+201210,Transfer,F,Filipino/Filipino-American,0,0,0,LS,201407,LS,447
+201210,Freshman,F,White/Caucasian,0,1,0,LS,NA,NA,448
+201210,Freshman,M,White/Caucasian,0,0,0,LS,201603,EN,449
+201210,Freshman,F,Vietnamese,0,1,1,AE,201701,AE,450
+201210,Freshman,M,White/Caucasian,0,0,0,EN,201603,LS,451
+201210,Freshman,M,Chinese-American/Chinese,0,0,0,EN,201701,EN,452
+201210,Freshman,F,Vietnamese,0,1,1,LS,201603,BI,453
+201210,Transfer,F,White/Caucasian,0,0,1,LS,201507,AE,454
+201210,Transfer,M,East Indian/Pakistani,0,1,1,LS,NA,NA,455
+201210,Freshman,M,White/Caucasian,0,0,0,LS,201603,LS,456
+201210,Freshman,F,East Indian/Pakistani,0,0,0,BI,201603,BI,457
+201210,Transfer,F,White/Caucasian,0,0,0,LS,NA,NA,458
+201210,Freshman,M,Unknown,NA,0,0,AE,201707,AE,459
+201210,Transfer,M,Korean-American/Korean,0,0,0,LS,NA,NA,460
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201703,AE,461
+201210,Freshman,F,East Indian/Pakistani,0,0,NA,BI,201603,BI,462
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,463
+201210,Transfer,M,African-American/Black,1,1,1,LS,201407,AE,464
+201210,Freshman,F,Chinese-American/Chinese,0,1,1,EN,NA,NA,466
+201210,Transfer,F,East Indian/Pakistani,0,1,1,BI,201701,BI,467
+201210,Transfer,F,Vietnamese,0,1,0,LS,201410,LS,468
+201210,Freshman,M,White/Caucasian,0,0,0,AE,201703,AE,469
+201210,Freshman,F,Japanese American/Japanese,0,0,0,LS,201603,BI,470
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201607,LS,471
+201210,Transfer,M,Latino/Other Spanish,1,0,NA,BI,201510,BI,472
+201210,Freshman,F,White/Caucasian,0,0,1,LS,201503,LS,473
+201210,Freshman,M,Vietnamese,0,0,0,BI,NA,NA,474
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201607,LS,475
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,476
+201210,Freshman,F,Other Asian,0,1,1,LS,201703,LS,477
+201210,Freshman,F,Other Asian,0,1,1,LS,201603,LS,478
+201210,Freshman,M,White/Caucasian,0,0,0,EN,201703,EN,479
+201210,Transfer,M,Chinese-American/Chinese,0,1,0,LS,201403,LS,480
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,BI,201707,BI,481
+201210,Freshman,F,African-American/Black,1,0,1,LS,201603,LS,482
+201210,Freshman,F,White/Caucasian,0,0,0,AE,201603,AE,483
+201210,Transfer,F,Chinese-American/Chinese,0,1,1,LS,201407,LS,484
+201210,Transfer,M,Chinese-American/Chinese,0,0,0,AE,201407,AE,485
+201210,Freshman,F,White/Caucasian,0,0,NA,LS,201603,LS,486
+201210,Transfer,F,White/Caucasian,0,0,NA,LS,201403,LS,487
+201210,Freshman,F,Latino/Other Spanish,1,1,0,EN,201610,EN,488
+201210,Freshman,F,White/Caucasian,0,0,0,LS,201603,LS,489
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,BI,201603,BI,490
+201210,Transfer,M,East Indian/Pakistani,0,1,NA,EN,201403,EN,491
+201210,Freshman,F,Filipino/Filipino-American,0,0,0,BI,NA,NA,492
+201210,Transfer,F,Vietnamese,0,0,0,BI,201410,BI,493
+201210,Transfer,M,White/Caucasian,0,1,0,AE,201503,AE,494
+201210,Transfer,M,White/Caucasian,0,1,NA,AE,201403,AE,495
+201210,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,BI,201610,BI,496
+201210,Transfer,F,White/Caucasian,0,0,0,AE,NA,NA,497
+201210,Transfer,M,Chinese-American/Chinese,0,1,1,AE,201403,AE,498
+201210,Transfer,M,African-American/Black,1,1,1,LS,NA,NA,499
+201210,Transfer,M,White/Caucasian,0,0,0,LS,201403,LS,500
+201210,Transfer,M,Chinese-American/Chinese,0,0,0,LS,201403,LS,501
+201210,Transfer,F,Latino/Other Spanish,1,1,1,LS,201403,LS,502
+201210,Freshman,F,Unknown,NA,1,1,LS,201703,LS,503
+201210,Transfer,F,Chinese-American/Chinese,0,0,1,LS,201310,LS,504
+201210,Freshman,M,White/Caucasian,0,1,0,EN,NA,NA,505
+201210,Freshman,F,Japanese American/Japanese,0,0,0,BI,201603,LS,506
+201210,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,507
+201210,Freshman,M,Unknown,NA,0,NA,EN,NA,NA,508
+201210,Freshman,F,Korean-American/Korean,0,0,0,BI,201603,BI,509
+201210,Freshman,F,East Indian/Pakistani,0,0,0,AE,201601,LS,510
+201210,Transfer,F,Vietnamese,0,0,NA,LS,201410,LS,511
+201210,Transfer,F,Japanese American/Japanese,0,0,NA,LS,201407,LS,512
+201210,Transfer,F,Unknown,NA,0,0,LS,201403,LS,513
+201210,Freshman,F,Korean-American/Korean,0,1,0,AE,201607,AE,514
+201210,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,515
+201210,Freshman,M,White/Caucasian,0,1,1,EN,201603,LS,516
+201210,Freshman,F,Latino/Other Spanish,1,1,0,EN,201603,EN,517
+201210,Transfer,M,Chinese-American/Chinese,0,1,0,LS,201401,LS,518
+201210,Freshman,F,White/Caucasian,0,0,0,AE,201603,AE,519
+201210,Freshman,M,White/Caucasian,0,0,0,LS,201603,LS,520
+201210,Freshman,F,White/Caucasian,0,0,0,LS,201601,LS,521
+201210,Transfer,F,White/Caucasian,0,0,0,LS,201403,LS,522
+201210,Freshman,M,Chinese-American/Chinese,0,0,0,EN,NA,NA,523
+201210,Transfer,F,Chinese-American/Chinese,0,1,1,AE,201403,AE,524
+201210,Freshman,M,Latino/Other Spanish,1,1,0,LS,201601,LS,525
+201210,Freshman,F,White/Caucasian,0,0,0,BI,201603,BI,526
+201210,Freshman,F,Chinese-American/Chinese,0,0,NA,BI,201603,BI,527
+201210,Transfer,M,White/Caucasian,0,0,0,LS,NA,NA,528
+201210,Freshman,M,Japanese American/Japanese,0,0,0,AE,201701,AE,529
+201210,Transfer,F,Latino/Other Spanish,1,0,1,LS,201407,LS,530
+201210,Freshman,F,White/Caucasian,0,0,1,BI,NA,NA,531
+201210,Transfer,M,White/Caucasian,0,0,NA,LS,201403,LS,532
+201210,Freshman,F,White/Caucasian,0,1,0,LS,201603,AE,533
+201210,Transfer,M,Chinese-American/Chinese,0,1,1,LS,201407,LS,534
+201210,Freshman,F,Latino/Other Spanish,1,0,1,LS,201603,LS,535
+201210,Freshman,M,Chinese-American/Chinese,0,1,1,LS,201601,LS,536
+201210,Freshman,F,Chinese-American/Chinese,0,0,1,BI,201603,BI,537
+201210,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201603,LS,538
+201210,Transfer,M,White/Caucasian,0,0,0,LS,201403,LS,539
+201210,Freshman,F,African-American/Black,1,1,0,BI,201710,LS,540
+201210,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,541
+201210,Transfer,F,White/Caucasian,0,0,0,LS,201407,LS,542
+201210,Freshman,F,White/Caucasian,0,0,0,AE,201603,AE,543
+201210,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,544
+201210,Transfer,F,Latino/Other Spanish,1,1,1,BI,201503,BI,545
+201210,Freshman,M,Chinese-American/Chinese,0,0,0,BI,201601,BI,546
+201210,Freshman,F,White/Caucasian,0,0,0,LS,201603,AE,547
+201210,Transfer,F,White/Caucasian,0,0,0,LS,201403,LS,548
+201210,Freshman,M,Chinese-American/Chinese,0,0,0,AE,201610,BI,549
+201210,Freshman,F,White/Caucasian,0,0,0,LS,201601,LS,550
+201310,Freshman,F,East Indian/Pakistani,0,0,0,EN,NA,NA,551
+201310,Freshman,F,Chinese-American/Chinese,0,0,NA,BI,201707,AE,552
+201310,Freshman,M,White/Caucasian,0,0,0,BI,201703,BI,553
+201310,Freshman,F,Japanese American/Japanese,0,0,0,AE,201703,AE,554
+201310,Freshman,M,White/Caucasian,0,1,1,AE,NA,NA,555
+201310,Transfer,F,White/Caucasian,0,1,NA,AE,201610,AE,556
+201310,Transfer,F,White/Caucasian,0,1,NA,LS,201503,LS,557
+201310,Freshman,F,White/Caucasian,0,0,0,BI,201703,AE,558
+201310,Transfer,M,White/Caucasian,0,0,0,AE,201601,AE,559
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,AE,201703,AE,560
+201310,Freshman,M,Chinese-American/Chinese,0,0,0,LS,201703,AE,561
+201310,Freshman,F,Filipino/Filipino-American,0,0,0,LS,201703,AE,562
+201310,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,201503,LS,563
+201310,Freshman,F,White/Caucasian,0,0,0,AE,201703,BI,564
+201310,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,565
+201310,Freshman,F,Chinese-American/Chinese,0,0,0,EN,201703,EN,566
+201310,Transfer,F,White/Caucasian,0,0,0,LS,201603,LS,567
+201310,Freshman,F,Chinese-American/Chinese,0,1,0,AE,201707,AE,568
+201310,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,BI,NA,NA,569
+201310,Freshman,F,Latino/Other Spanish,1,0,NA,BI,201703,LS,570
+201310,Freshman,M,Chinese-American/Chinese,0,0,NA,LS,201703,AE,571
+201310,Freshman,F,East Indian/Pakistani,0,0,0,LS,201703,AE,572
+201310,Transfer,F,White/Caucasian,0,1,1,LS,201601,LS,573
+201310,Transfer,M,Latino/Other Spanish,1,1,1,LS,NA,NA,574
+201310,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,201703,LS,575
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,1,LS,201603,LS,576
+201310,Transfer,M,Mexican-Am/Mexican/Chicano,1,0,0,LS,201701,LS,577
+201310,Freshman,F,White/Caucasian,0,0,1,LS,201703,LS,578
+201310,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201701,AE,579
+201310,Freshman,M,Vietnamese,0,1,0,LS,NA,NA,580
+201310,Transfer,F,Japanese American/Japanese,0,1,0,AE,201507,AE,581
+201310,Transfer,M,Chinese-American/Chinese,0,0,0,LS,201503,LS,582
+201310,Transfer,M,White/Caucasian,0,1,0,LS,NA,NA,583
+201310,Transfer,M,White/Caucasian,0,0,NA,EN,201503,EN,584
+201310,Freshman,M,Korean-American/Korean,0,0,NA,BI,NA,NA,585
+201310,Transfer,M,White/Caucasian,0,1,0,LS,NA,NA,586
+201310,Freshman,F,White/Caucasian,0,0,0,AE,201707,AE,587
+201310,Transfer,M,East Indian/Pakistani,0,0,0,AE,201503,AE,588
+201310,Freshman,F,White/Caucasian,0,0,0,LS,201703,LS,589
+201310,Transfer,F,White/Caucasian,0,0,NA,LS,201503,LS,590
+201310,Freshman,F,Chinese-American/Chinese,0,0,0,EN,NA,NA,591
+201310,Freshman,F,White/Caucasian,0,1,0,BI,201703,BI,592
+201310,Freshman,F,Filipino/Filipino-American,0,1,1,LS,NA,NA,593
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,BI,201703,BI,594
+201310,Freshman,F,Other Asian,0,1,1,AE,NA,NA,595
+201310,Transfer,F,White/Caucasian,0,0,0,AE,201610,AE,596
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,EN,201703,EN,597
+201310,Transfer,F,Vietnamese,0,1,1,LS,201607,LS,599
+201310,Freshman,F,Chinese-American/Chinese,0,0,0,EN,201701,EN,600
+201310,Transfer,M,Filipino/Filipino-American,0,0,0,LS,201510,LS,601
+201310,Freshman,M,Filipino/Filipino-American,0,0,0,LS,201707,LS,602
+201310,Freshman,M,Chinese-American/Chinese,0,0,0,EN,NA,NA,603
+201310,Transfer,M,White/Caucasian,0,0,0,LS,NA,NA,604
+201310,Transfer,M,White/Caucasian,0,0,NA,EN,201507,EN,605
+201310,Transfer,M,East Indian/Pakistani,0,0,0,AE,201603,AE,606
+201310,Transfer,M,Chinese-American/Chinese,0,1,1,AE,201507,AE,607
+201310,Freshman,F,Chinese-American/Chinese,0,1,0,LS,201707,LS,608
+201310,Freshman,F,Filipino/Filipino-American,0,0,0,BI,NA,NA,609
+201310,Freshman,M,Latino/Other Spanish,1,0,NA,LS,NA,NA,610
+201310,Transfer,M,White/Caucasian,0,0,0,LS,201503,LS,611
+201310,Freshman,F,Chinese-American/Chinese,0,1,0,AE,201703,AE,612
+201310,Transfer,M,White/Caucasian,0,0,NA,LS,201503,LS,613
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,EN,201707,EN,614
+201310,Freshman,F,White/Caucasian,0,1,0,EN,201703,EN,615
+201310,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,201610,LS,616
+201310,Transfer,M,Filipino/Filipino-American,0,1,NA,LS,NA,NA,617
+201310,Freshman,F,White/Caucasian,0,0,0,LS,201703,LS,618
+201310,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,201503,LS,619
+201310,Transfer,F,White/Caucasian,0,1,1,LS,201503,LS,620
+201310,Freshman,M,Chinese-American/Chinese,0,1,0,BI,201610,BI,621
+201310,Freshman,F,White/Caucasian,0,1,0,LS,201703,LS,622
+201310,Transfer,F,White/Caucasian,0,0,NA,LS,201410,LS,623
+201310,Freshman,M,Unknown,NA,1,0,EN,NA,NA,624
+201310,Freshman,F,White/Caucasian,0,0,0,AE,NA,NA,625
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,201701,LS,626
+201310,Transfer,M,White/Caucasian,0,0,NA,AE,201503,AE,627
+201310,Freshman,M,Chinese-American/Chinese,0,0,0,LS,201703,EN,628
+201310,Transfer,F,White/Caucasian,0,1,0,LS,201410,LS,629
+201310,Freshman,F,White/Caucasian,0,0,0,BI,201703,LS,630
+201310,Freshman,F,Latino/Other Spanish,1,1,1,LS,201703,LS,631
+201310,Freshman,M,African-American/Black,1,0,1,LS,201703,AE,632
+201310,Transfer,M,East Indian/Pakistani,0,1,1,AE,201507,AE,633
+201310,Freshman,M,Japanese American/Japanese,0,0,0,LS,NA,NA,634
+201310,Transfer,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,635
+201310,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,636
+201310,Freshman,M,Filipino/Filipino-American,0,0,0,BI,201703,BI,637
+201310,Freshman,F,East Indian/Pakistani,0,0,0,BI,201703,EN,638
+201310,Freshman,F,White/Caucasian,0,0,0,AE,201703,AE,639
+201310,Freshman,F,White/Caucasian,0,0,1,BI,NA,NA,640
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,LS,201703,LS,641
+201310,Transfer,F,White/Caucasian,0,1,0,LS,201503,LS,642
+201310,Transfer,M,Latino/Other Spanish,1,0,0,AE,201610,AE,643
+201310,Freshman,F,White/Caucasian,0,0,NA,AE,201703,AE,644
+201310,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,646
+201310,Transfer,F,White/Caucasian,0,1,NA,LS,201507,LS,647
+201310,Freshman,F,White/Caucasian,0,0,0,LS,201710,LS,648
+201310,Freshman,F,Latino/Other Spanish,1,0,1,LS,201701,LS,649
+201310,Transfer,M,Latino/Other Spanish,1,0,0,LS,201501,LS,650
+201310,Freshman,F,White/Caucasian,0,0,NA,LS,201703,AE,651
+201310,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,652
+201310,Freshman,M,Unknown,NA,0,0,BI,NA,NA,653
+201310,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201703,AE,654
+201310,Freshman,F,Chinese-American/Chinese,0,0,0,AE,201707,LS,655
+201310,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,201503,LS,656
+201310,Transfer,F,Vietnamese,0,1,0,AE,201410,AE,657
+201310,Freshman,F,Filipino/Filipino-American,0,0,1,EN,NA,NA,658
+201310,Transfer,F,Latino/Other Spanish,1,1,NA,LS,NA,NA,659
+201310,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,201503,LS,660
+201310,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,201603,BI,661
+201310,Transfer,M,White/Caucasian,0,0,0,LS,201601,LS,662
+201310,Freshman,F,Vietnamese,0,1,0,AE,201703,AE,663
+201310,Freshman,F,Latino/Other Spanish,1,0,NA,LS,201710,LS,664
+201310,Freshman,M,White/Caucasian,0,1,0,BI,201710,BI,665
+201310,Freshman,F,African-American/Black,1,0,0,LS,201703,LS,666
+201310,Freshman,F,White/Caucasian,0,0,0,AE,201703,AE,667
+201310,Transfer,F,Filipino/Filipino-American,0,0,0,LS,201503,LS,668
+201310,Transfer,M,White/Caucasian,0,0,0,LS,201507,LS,669
+201310,Freshman,M,Chinese-American/Chinese,0,0,0,EN,201703,EN,670
+201310,Transfer,F,Other Asian,0,0,0,LS,201507,AE,671
+201310,Freshman,F,White/Caucasian,0,0,0,AE,201703,AE,672
+201310,Transfer,F,Chinese-American/Chinese,0,0,0,LS,201603,LS,673
+201310,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201701,AE,674
+201310,Freshman,M,Unknown,NA,1,0,AE,NA,NA,675
+201310,Freshman,F,Chinese-American/Chinese,0,1,0,AE,NA,NA,676
+201310,Freshman,F,Filipino/Filipino-American,0,1,0,AE,201707,AE,677
+201310,Transfer,F,Chinese-American/Chinese,0,0,1,AE,201503,AE,678
+201310,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,201603,LS,679
+201310,Transfer,M,Mexican-Am/Mexican/Chicano,1,0,NA,AE,201701,AE,680
+201310,Freshman,M,Chinese-American/Chinese,0,1,1,LS,201703,AE,681
+201310,Freshman,M,Chinese-American/Chinese,0,0,NA,LS,201610,AE,682
+201310,Freshman,F,White/Caucasian,0,0,0,LS,201703,LS,683
+201310,Transfer,M,White/Caucasian,0,1,1,AE,201503,AE,684
+201310,Freshman,F,African-American/Black,1,1,NA,BI,NA,NA,685
+201310,Freshman,F,East Indian/Pakistani,0,0,0,BI,201603,BI,686
+201310,Freshman,F,Latino/Other Spanish,1,0,0,BI,201703,LS,687
+201310,Transfer,F,East Indian/Pakistani,0,1,1,LS,201503,AE,688
+201310,Transfer,F,Chinese-American/Chinese,0,0,0,AE,201503,AE,689
+201310,Freshman,F,White/Caucasian,0,1,1,LS,201703,BI,690
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,BI,201703,BI,691
+201310,Transfer,F,White/Caucasian,0,0,0,LS,201503,LS,692
+201310,Freshman,F,Chinese-American/Chinese,0,1,1,BI,201703,BI,693
+201310,Freshman,F,White/Caucasian,0,0,0,BI,201703,BI,694
+201310,Freshman,F,Chinese-American/Chinese,0,0,0,LS,201707,LS,695
+201310,Transfer,F,White/Caucasian,0,1,0,AE,201503,AE,696
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,697
+201310,Freshman,F,White/Caucasian,0,0,1,BI,NA,NA,698
+201310,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,699
+201310,Transfer,M,Mexican-Am/Mexican/Chicano,1,0,0,AE,201503,LS,700
+201310,Freshman,M,Chinese-American/Chinese,0,0,0,EN,201703,EN,701
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,702
+201310,Freshman,F,White/Caucasian,0,0,0,LS,201703,LS,703
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,BI,NA,NA,704
+201310,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,705
+201310,Freshman,M,Filipino/Filipino-American,0,NA,NA,EN,201703,EN,707
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,708
+201310,Freshman,F,Chinese-American/Chinese,0,1,1,AE,201703,AE,709
+201310,Freshman,M,Unknown,NA,1,0,LS,201707,BI,710
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201703,LS,711
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,201703,LS,712
+201310,Freshman,M,Filipino/Filipino-American,0,0,1,EN,201703,LS,713
+201310,Freshman,M,Filipino/Filipino-American,0,0,0,AE,201707,AE,714
+201310,Freshman,F,East Indian/Pakistani,0,1,0,BI,201703,BI,715
+201310,Freshman,F,White/Caucasian,0,0,0,BI,201703,BI,716
+201310,Freshman,M,Unknown,NA,0,0,EN,201703,EN,717
+201310,Freshman,F,White/Caucasian,0,NA,NA,LS,NA,NA,718
+201310,Transfer,F,White/Caucasian,0,1,NA,BI,201503,BI,719
+201310,Freshman,M,White/Caucasian,0,0,0,BI,201703,LS,720
+201310,Transfer,M,Vietnamese,0,1,NA,LS,201503,LS,721
+201310,Transfer,F,Latino/Other Spanish,1,0,0,LS,201503,LS,722
+201310,Transfer,M,White/Caucasian,0,0,0,LS,201603,LS,723
+201310,Freshman,M,White/Caucasian,0,0,0,EN,201703,EN,724
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,AE,201703,AE,725
+201310,Transfer,F,Vietnamese,0,0,1,BI,201607,AE,726
+201310,Freshman,F,Unknown,NA,0,0,LS,NA,NA,727
+201310,Transfer,F,African-American/Black,1,1,1,AE,201510,AE,728
+201310,Transfer,F,Chinese-American/Chinese,0,1,1,LS,201503,LS,729
+201310,Freshman,M,White/Caucasian,0,0,0,EN,201703,EN,730
+201310,Transfer,M,White/Caucasian,0,1,NA,BI,201503,BI,731
+201310,Transfer,M,Vietnamese,0,1,0,LS,201603,AE,732
+201310,Transfer,F,Korean-American/Korean,0,0,0,AE,201510,AE,733
+201310,Freshman,M,White/Caucasian,0,0,0,LS,201703,LS,734
+201310,Freshman,F,East Indian/Pakistani,0,0,0,EN,201703,LS,735
+201310,Transfer,M,Chinese-American/Chinese,0,0,1,LS,201503,LS,736
+201310,Freshman,F,White/Caucasian,0,0,0,LS,201703,LS,737
+201310,Freshman,F,Chinese-American/Chinese,0,0,1,LS,201703,LS,738
+201310,Freshman,M,White/Caucasian,0,0,NA,LS,201710,LS,739
+201310,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,BI,201703,LS,740
+201310,Transfer,F,African-American/Black,1,1,0,LS,201507,LS,741
+201310,Freshman,F,East Indian/Pakistani,0,0,0,LS,201703,LS,742
+201310,Transfer,M,East Indian/Pakistani,0,0,NA,BI,201510,BI,743
+201310,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,744
+201310,Freshman,M,Chinese-American/Chinese,0,0,0,AE,201703,AE,745
+201310,Transfer,F,Other Asian,0,0,0,LS,201507,LS,746
+201310,Freshman,F,African-American/Black,1,1,0,AE,NA,NA,747
+201310,Transfer,F,Korean-American/Korean,0,1,0,LS,201501,LS,748
+201310,Freshman,M,White/Caucasian,0,1,0,EN,NA,NA,749
+201310,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,0,AE,201510,AE,750
+201310,Freshman,F,Vietnamese,0,1,1,LS,NA,NA,751
+201310,Transfer,F,Chinese-American/Chinese,0,1,1,LS,201503,AE,752
+201410,Transfer,F,White/Caucasian,0,1,0,LS,201601,LS,753
+201410,Transfer,F,Chinese-American/Chinese,0,1,0,LS,201601,LS,754
+201410,Freshman,M,White/Caucasian,0,0,NA,LS,NA,NA,755
+201410,Transfer,F,African-American/Black,1,0,1,LS,201703,LS,756
+201410,Transfer,M,Chinese-American/Chinese,0,1,0,LS,201510,LS,757
+201410,Freshman,M,Chinese-American/Chinese,0,0,0,EN,NA,NA,758
+201410,Transfer,M,African-American/Black,1,1,0,LS,201703,LS,759
+201410,Freshman,M,East Indian/Pakistani,0,0,0,BI,NA,NA,760
+201410,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,201603,LS,761
+201410,Freshman,F,Latino/Other Spanish,1,0,0,BI,NA,NA,762
+201410,Transfer,F,Other Asian,0,0,0,LS,201610,LS,763
+201410,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,764
+201410,Freshman,F,Vietnamese,0,0,NA,BI,NA,NA,765
+201410,Freshman,F,White/Caucasian,0,1,0,BI,NA,NA,766
+201410,Freshman,M,Chinese-American/Chinese,0,1,1,LS,NA,NA,767
+201410,Transfer,M,White/Caucasian,0,0,0,LS,201703,AE,768
+201410,Transfer,M,Chinese-American/Chinese,0,1,1,BI,201607,BI,769
+201410,Freshman,M,Korean-American/Korean,0,0,0,AE,NA,NA,770
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,0,LS,NA,NA,771
+201410,Freshman,F,Japanese American/Japanese,0,0,NA,BI,NA,NA,772
+201410,Freshman,F,African-American/Black,1,1,1,LS,NA,NA,773
+201410,Freshman,F,Chinese-American/Chinese,0,1,1,BI,NA,NA,774
+201410,Freshman,M,Latino/Other Spanish,1,0,0,EN,NA,NA,775
+201410,Freshman,F,Chinese-American/Chinese,0,0,0,AE,NA,NA,776
+201410,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,777
+201410,Transfer,F,White/Caucasian,0,1,NA,LS,NA,NA,778
+201410,Freshman,F,White/Caucasian,0,0,0,AE,NA,NA,779
+201410,Freshman,F,Chinese-American/Chinese,0,0,0,AE,NA,NA,780
+201410,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,781
+201410,Transfer,M,Other Asian,0,0,0,LS,201701,LS,782
+201410,Transfer,F,Unknown,NA,1,NA,LS,201507,LS,783
+201410,Freshman,M,Vietnamese,0,0,1,BI,NA,NA,784
+201410,Freshman,M,White/Caucasian,0,0,0,BI,201710,AE,786
+201410,Transfer,F,Latino/Other Spanish,1,1,1,EN,201603,EN,787
+201410,Freshman,M,White/Caucasian,0,0,1,LS,NA,NA,788
+201410,Transfer,F,White/Caucasian,0,1,NA,BI,201703,BI,789
+201410,Freshman,F,Chinese-American/Chinese,0,0,0,EN,201707,LS,790
+201410,Transfer,M,Other Asian,0,0,NA,LS,201601,LS,791
+201410,Transfer,F,White/Caucasian,0,0,1,AE,201701,AE,792
+201410,Freshman,M,Filipino/Filipino-American,0,0,0,LS,NA,NA,793
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,0,0,BI,201703,AE,794
+201410,Freshman,M,White/Caucasian,0,0,NA,LS,NA,NA,795
+201410,Transfer,M,Vietnamese,0,0,1,LS,NA,NA,796
+201410,Transfer,F,Filipino/Filipino-American,0,0,0,LS,201601,LS,797
+201410,Freshman,M,Chinese-American/Chinese,0,1,0,EN,NA,NA,798
+201410,Transfer,F,White/Caucasian,0,1,0,BI,201603,BI,799
+201410,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,800
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,801
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,0,0,LS,201603,LS,802
+201410,Freshman,F,White/Caucasian,0,0,NA,LS,NA,NA,803
+201410,Transfer,M,Filipino/Filipino-American,0,0,NA,LS,201607,LS,804
+201410,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,805
+201410,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,806
+201410,Freshman,F,White/Caucasian,0,0,NA,LS,NA,NA,807
+201410,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,808
+201410,Transfer,F,White/Caucasian,0,1,NA,LS,201703,LS,809
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,810
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,0,1,AE,201703,AE,811
+201410,Freshman,F,White/Caucasian,0,0,0,EN,NA,NA,812
+201410,Freshman,M,Other Asian,0,0,1,BI,NA,NA,813
+201410,Transfer,M,Chinese-American/Chinese,0,1,1,LS,201603,LS,814
+201410,Transfer,M,Chinese-American/Chinese,0,1,0,LS,NA,NA,815
+201410,Freshman,F,Japanese American/Japanese,0,0,0,LS,NA,NA,816
+201410,Freshman,M,Other Asian,0,0,0,EN,NA,NA,817
+201410,Freshman,F,Latino/Other Spanish,1,1,0,LS,NA,NA,818
+201410,Transfer,F,Vietnamese,0,1,0,AE,201610,AE,819
+201410,Freshman,F,Vietnamese,0,0,0,BI,NA,NA,820
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,201610,LS,821
+201410,Freshman,M,Japanese American/Japanese,0,0,0,AE,NA,NA,822
+201410,Transfer,M,African-American/Black,1,0,0,LS,201610,LS,823
+201410,Transfer,M,White/Caucasian,0,1,NA,EN,NA,NA,824
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,0,NA,LS,201603,LS,825
+201410,Transfer,F,White/Caucasian,0,1,NA,AE,201703,LS,826
+201410,Transfer,M,White/Caucasian,0,0,0,BI,201603,AE,827
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201703,LS,828
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,0,LS,NA,NA,829
+201410,Freshman,F,Unknown,NA,0,0,BI,NA,NA,830
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,EN,NA,NA,831
+201410,Transfer,F,Vietnamese,0,1,1,LS,201603,LS,832
+201410,Freshman,F,East Indian/Pakistani,0,0,0,EN,NA,NA,833
+201410,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,834
+201410,Freshman,F,Other Asian,0,1,1,LS,NA,NA,835
+201410,Transfer,M,Chinese-American/Chinese,0,1,0,LS,201603,LS,836
+201410,Freshman,F,Latino/Other Spanish,1,1,NA,EN,NA,NA,837
+201410,Freshman,M,East Indian/Pakistani,0,0,0,BI,NA,NA,838
+201410,Transfer,F,White/Caucasian,0,1,NA,LS,201603,LS,839
+201410,Freshman,M,East Indian/Pakistani,0,0,0,LS,NA,NA,840
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,841
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,201607,LS,842
+201410,Freshman,F,Chinese-American/Chinese,0,1,0,LS,NA,NA,843
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,LS,NA,NA,844
+201410,Transfer,M,Japanese American/Japanese,0,0,0,LS,201603,LS,845
+201410,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,201610,AE,846
+201410,Freshman,M,White/Caucasian,0,1,1,EN,NA,NA,847
+201410,Transfer,F,Latino/Other Spanish,1,1,0,LS,201703,LS,848
+201410,Transfer,F,White/Caucasian,0,0,NA,AE,201603,AE,849
+201410,Freshman,F,White/Caucasian,0,0,0,BI,NA,NA,850
+201410,Transfer,M,Chinese-American/Chinese,0,1,1,BI,201703,BI,851
+201410,Freshman,M,Chinese-American/Chinese,0,0,0,EN,NA,NA,852
+201410,Transfer,F,White/Caucasian,0,0,1,LS,NA,NA,853
+201410,Freshman,F,Chinese-American/Chinese,0,0,0,AE,NA,NA,854
+201410,Transfer,M,East Indian/Pakistani,0,0,0,BI,201603,BI,855
+201410,Freshman,F,Chinese-American/Chinese,0,0,0,EN,NA,NA,856
+201410,Freshman,F,White/Caucasian,0,0,NA,BI,NA,NA,857
+201410,Freshman,F,Unknown,NA,0,0,BI,NA,NA,858
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,NA,NA,859
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,EN,201610,EN,860
+201410,Freshman,F,Vietnamese,0,1,0,BI,NA,NA,861
+201410,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,862
+201410,Freshman,M,Chinese-American/Chinese,0,0,0,EN,NA,NA,863
+201410,Freshman,F,Chinese-American/Chinese,0,1,0,LS,NA,NA,864
+201410,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,865
+201410,Freshman,M,Korean-American/Korean,0,1,0,LS,NA,NA,866
+201410,Transfer,F,White/Caucasian,0,NA,0,BI,201710,BI,867
+201410,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,868
+201410,Freshman,F,African-American/Black,1,0,1,LS,201703,LS,869
+201410,Freshman,M,Korean-American/Korean,0,1,1,BI,NA,NA,870
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,201603,LS,871
+201410,Transfer,M,White/Caucasian,0,1,0,LS,201703,LS,872
+201410,Freshman,M,White/Caucasian,0,0,0,BI,NA,NA,873
+201410,Transfer,M,Chinese-American/Chinese,0,0,0,LS,201603,LS,874
+201410,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,EN,NA,NA,875
+201410,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,0,LS,201607,LS,876
+201410,Freshman,F,Chinese-American/Chinese,0,0,0,AE,NA,NA,877
+201410,Freshman,M,Vietnamese,0,1,1,EN,NA,NA,878
+201410,Freshman,F,Vietnamese,0,1,1,LS,NA,NA,879
+201410,Freshman,F,White/Caucasian,0,1,0,AE,NA,NA,880
+201410,Transfer,M,White/Caucasian,0,0,NA,LS,201703,LS,881
+201410,Freshman,M,Chinese-American/Chinese,0,0,0,AE,NA,NA,882
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,201607,LS,883
+201410,Freshman,F,Latino/Other Spanish,1,0,0,LS,NA,NA,884
+201410,Transfer,F,White/Caucasian,0,0,0,LS,201603,LS,885
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,EN,NA,NA,886
+201410,Transfer,M,Latino/Other Spanish,1,0,0,LS,201607,LS,887
+201410,Freshman,F,East Indian/Pakistani,0,0,0,BI,NA,NA,888
+201410,Transfer,M,White/Caucasian,0,0,0,AE,201607,AE,889
+201410,Transfer,F,Other Asian,0,1,1,LS,NA,NA,890
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,1,EN,NA,NA,891
+201410,Freshman,F,African-American/Black,1,0,0,LS,NA,NA,892
+201410,Transfer,F,White/Caucasian,0,1,0,BI,201510,BI,893
+201410,Transfer,M,White/Caucasian,0,0,NA,LS,201603,LS,894
+201410,Freshman,M,East Indian/Pakistani,0,0,0,LS,NA,NA,895
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,NA,BI,NA,NA,896
+201410,Freshman,F,White/Caucasian,0,1,0,EN,NA,NA,897
+201410,Freshman,F,White/Caucasian,0,0,NA,LS,NA,NA,898
+201410,Transfer,M,Other Asian,0,0,1,BI,201603,BI,899
+201410,Freshman,M,White/Caucasian,0,1,1,LS,NA,NA,900
+201410,Freshman,M,White/Caucasian,0,1,0,AE,NA,NA,901
+201410,Transfer,M,White/Caucasian,0,1,0,BI,201610,BI,902
+201410,Freshman,F,Vietnamese,0,1,NA,LS,NA,NA,903
+201410,Freshman,M,Chinese-American/Chinese,0,0,0,EN,NA,NA,904
+201410,Freshman,F,Chinese-American/Chinese,0,1,1,BI,NA,NA,905
+201410,Transfer,M,East Indian/Pakistani,0,0,0,LS,NA,NA,906
+201410,Freshman,M,Chinese-American/Chinese,0,1,0,AE,NA,NA,907
+201410,Freshman,M,White/Caucasian,0,1,0,LS,NA,NA,908
+201410,Freshman,F,Chinese-American/Chinese,0,0,0,BI,201707,LS,909
+201410,Freshman,F,White/Caucasian,0,1,0,AE,NA,NA,910
+201410,Transfer,F,White/Caucasian,0,0,0,BI,201703,BI,911
+201410,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,912
+201410,Freshman,F,White/Caucasian,0,0,0,AE,NA,NA,913
+201410,Freshman,M,Chinese-American/Chinese,0,1,0,LS,NA,NA,914
+201410,Transfer,F,Latino/Other Spanish,1,1,1,BI,201703,BI,915
+201410,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,BI,NA,NA,916
+201410,Freshman,F,Japanese American/Japanese,0,0,NA,LS,NA,NA,917
+201410,Freshman,F,Chinese-American/Chinese,0,1,1,AE,NA,NA,918
+201410,Freshman,F,Chinese-American/Chinese,0,1,1,AE,NA,NA,919
+201410,Transfer,M,White/Caucasian,0,1,0,EN,NA,NA,920
+201410,Freshman,M,Chinese-American/Chinese,0,0,0,BI,NA,NA,921
+201410,Freshman,F,Korean-American/Korean,0,0,0,LS,NA,NA,922
+201410,Transfer,M,White/Caucasian,0,0,0,EN,201703,EN,923
+201410,Freshman,F,East Indian/Pakistani,0,0,0,BI,NA,NA,924
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,0,LS,NA,NA,925
+201410,Freshman,M,Chinese-American/Chinese,0,1,1,EN,NA,NA,926
+201410,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,927
+201410,Transfer,F,East Indian/Pakistani,0,0,0,AE,201603,LS,928
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,929
+201410,Freshman,M,Other Asian,0,1,NA,LS,NA,NA,930
+201410,Freshman,M,White/Caucasian,0,0,0,BI,NA,NA,931
+201410,Freshman,F,White/Caucasian,0,0,0,BI,NA,NA,932
+201410,Freshman,F,White/Caucasian,0,0,1,AE,NA,NA,933
+201410,Freshman,F,Korean-American/Korean,0,0,0,LS,NA,NA,934
+201410,Transfer,M,White/Caucasian,0,0,0,BI,201603,BI,935
+201410,Freshman,F,Vietnamese,0,1,NA,AE,NA,NA,936
+201410,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,937
+201410,Freshman,F,White/Caucasian,0,0,0,AE,NA,NA,938
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,NA,NA,939
+201410,Transfer,F,White/Caucasian,0,1,NA,LS,201603,LS,940
+201410,Transfer,F,Filipino/Filipino-American,0,0,0,AE,201603,AE,941
+201410,Transfer,F,Filipino/Filipino-American,0,0,0,AE,201701,AE,942
+201410,Transfer,M,African-American/Black,1,0,0,LS,201603,BI,943
+201410,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,944
+201410,Transfer,F,Other Asian,0,NA,NA,BI,NA,NA,945
+201410,Freshman,M,Korean-American/Korean,0,1,1,AE,NA,NA,946
+201410,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,AE,NA,NA,947
+201410,Freshman,F,White/Caucasian,0,0,1,BI,NA,NA,948
+201410,Transfer,M,Vietnamese,0,0,0,BI,201607,BI,949
+201410,Transfer,M,Chinese-American/Chinese,0,1,0,AE,201603,AE,950
+201410,Freshman,M,African-American/Black,1,0,0,EN,NA,NA,951
+201410,Freshman,F,White/Caucasian,0,0,NA,AE,NA,NA,952
+201410,Transfer,M,White/Caucasian,0,1,0,AE,201701,AE,953
+201410,Freshman,F,Chinese-American/Chinese,0,1,0,EN,NA,NA,954
+201410,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,955
+201410,Freshman,F,Vietnamese,0,1,1,BI,NA,NA,956
+201410,Freshman,F,White/Caucasian,0,0,0,BI,NA,NA,957
+201410,Transfer,M,Chinese-American/Chinese,0,1,1,LS,201603,LS,958
+201410,Transfer,M,Other Asian,0,0,NA,LS,201607,LS,959
+201410,Transfer,M,White/Caucasian,0,0,0,LS,201603,LS,960
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,961
+201410,Transfer,M,Chinese-American/Chinese,0,1,0,LS,201610,LS,962
+201410,Transfer,M,Chinese-American/Chinese,0,0,NA,LS,NA,NA,963
+201410,Transfer,F,Chinese-American/Chinese,0,1,NA,BI,201703,LS,964
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,201603,LS,966
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,967
+201410,Transfer,F,White/Caucasian,0,1,1,AE,201707,AE,968
+201410,Freshman,F,Latino/Other Spanish,1,1,0,AE,NA,NA,969
+201410,Freshman,F,Chinese-American/Chinese,0,1,1,BI,NA,NA,970
+201410,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,971
+201410,Freshman,F,White/Caucasian,0,0,0,AE,NA,NA,972
+201410,Transfer,M,Chinese-American/Chinese,0,0,1,EN,201703,EN,973
+201410,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,974
+201410,Freshman,M,White/Caucasian,0,1,0,EN,NA,NA,975
+201410,Freshman,F,White/Caucasian,0,0,0,BI,NA,NA,976
+201410,Freshman,F,Chinese-American/Chinese,0,1,1,LS,NA,NA,977
+201410,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,978
+201410,Freshman,F,Chinese-American/Chinese,0,1,NA,LS,NA,NA,979
+201410,Freshman,F,Chinese-American/Chinese,0,0,1,EN,NA,NA,980
+201410,Transfer,F,Other Asian,0,0,0,LS,201601,LS,981
+201410,Transfer,M,White/Caucasian,0,1,0,LS,201510,LS,982
+201410,Freshman,M,Chinese-American/Chinese,0,NA,0,BI,NA,NA,983
+201410,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,0,LS,NA,NA,984
+201410,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,201603,LS,985
+201410,Freshman,M,Other Asian,0,1,1,LS,NA,NA,986
+201410,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,987
+201410,Transfer,M,White/Caucasian,0,0,NA,AE,NA,NA,988
+201410,Freshman,F,White/Caucasian,0,0,0,LS,201707,LS,989
+201410,Transfer,M,White/Caucasian,0,1,0,BI,201610,AE,990
+201510,Transfer,F,Chinese-American/Chinese,0,1,1,AE,201703,AE,991
+201510,Transfer,F,White/Caucasian,0,0,1,BI,201701,BI,992
+201510,Freshman,M,Korean-American/Korean,0,0,0,LS,NA,NA,993
+201510,Freshman,F,Korean-American/Korean,0,0,0,LS,NA,NA,994
+201510,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,995
+201510,Transfer,F,Filipino/Filipino-American,0,1,0,AE,201710,LS,996
+201510,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,997
+201510,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,998
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,999
+201510,Transfer,F,White/Caucasian,0,0,NA,LS,201710,LS,1000
+201510,Transfer,F,White/Caucasian,0,0,0,AE,NA,NA,1001
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1002
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,EN,NA,NA,1003
+201510,Transfer,F,White/Caucasian,0,1,1,AE,201707,AE,1004
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1005
+201510,Freshman,M,Filipino/Filipino-American,0,0,0,LS,NA,NA,1006
+201510,Freshman,M,Vietnamese,0,1,0,BI,NA,NA,1007
+201510,Transfer,F,White/Caucasian,0,0,1,LS,NA,NA,1008
+201510,Transfer,F,Vietnamese,0,1,1,LS,NA,NA,1009
+201510,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,1010
+201510,Freshman,F,African-American/Black,1,0,1,LS,NA,NA,1011
+201510,Transfer,F,White/Caucasian,0,0,1,AE,201707,AE,1012
+201510,Freshman,F,African-American/Black,1,1,1,BI,NA,NA,1013
+201510,Freshman,F,East Indian/Pakistani,0,0,0,BI,NA,NA,1014
+201510,Freshman,F,White/Caucasian,0,0,1,LS,NA,NA,1015
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1016
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,1017
+201510,Freshman,F,Latino/Other Spanish,1,1,1,LS,NA,NA,1018
+201510,Transfer,M,White/Caucasian,0,0,0,EN,NA,NA,1019
+201510,Transfer,M,White/Caucasian,0,0,0,BI,NA,NA,1020
+201510,Freshman,M,Chinese-American/Chinese,0,0,1,BI,NA,NA,1021
+201510,Transfer,F,White/Caucasian,0,0,NA,LS,201707,LS,1022
+201510,Freshman,F,Latino/Other Spanish,1,1,1,BI,NA,NA,1023
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,NA,NA,1024
+201510,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1025
+201510,Freshman,M,Korean-American/Korean,0,0,0,LS,NA,NA,1026
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,NA,NA,1027
+201510,Transfer,M,White/Caucasian,0,NA,1,EN,201710,EN,1028
+201510,Freshman,F,Latino/Other Spanish,1,1,1,BI,NA,NA,1029
+201510,Freshman,F,Chinese-American/Chinese,0,0,NA,LS,NA,NA,1030
+201510,Transfer,M,Chinese-American/Chinese,0,0,0,LS,201703,AE,1031
+201510,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,1032
+201510,Freshman,M,East Indian/Pakistani,0,0,NA,LS,NA,NA,1033
+201510,Freshman,M,White/Caucasian,0,0,1,LS,NA,NA,1034
+201510,Transfer,F,Latino/Other Spanish,1,1,1,LS,NA,NA,1035
+201510,Transfer,M,White/Caucasian,0,0,0,LS,201703,LS,1036
+201510,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,1037
+201510,Transfer,M,Latino/Other Spanish,1,0,0,EN,201703,EN,1038
+201510,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,1039
+201510,Freshman,F,Other Asian,0,1,1,LS,NA,NA,1040
+201510,Transfer,M,Filipino/Filipino-American,0,0,0,LS,201703,LS,1041
+201510,Freshman,M,White/Caucasian,0,0,0,AE,NA,NA,1042
+201510,Freshman,F,Other Asian,0,0,1,BI,NA,NA,1043
+201510,Transfer,M,White/Caucasian,0,1,0,EN,NA,NA,1044
+201510,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1045
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,1046
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,AE,NA,NA,1047
+201510,Transfer,F,Japanese American/Japanese,0,1,0,BI,NA,NA,1048
+201510,Freshman,F,White/Caucasian,0,1,0,AE,NA,NA,1049
+201510,Transfer,M,White/Caucasian,0,1,0,LS,NA,NA,1050
+201510,Freshman,F,White/Caucasian,0,0,0,AE,NA,NA,1051
+201510,Freshman,F,Other Asian,0,0,0,BI,NA,NA,1052
+201510,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1053
+201510,Transfer,M,Chinese-American/Chinese,0,0,0,BI,201703,BI,1054
+201510,Freshman,M,Vietnamese,0,0,0,BI,NA,NA,1055
+201510,Transfer,M,White/Caucasian,0,1,0,BI,201707,BI,1056
+201510,Transfer,M,White/Caucasian,0,1,0,BI,NA,NA,1057
+201510,Freshman,F,Vietnamese,0,0,0,BI,NA,NA,1058
+201510,Freshman,F,African-American/Black,1,1,1,AE,NA,NA,1059
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,BI,NA,NA,1060
+201510,Transfer,F,White/Caucasian,0,0,0,LS,201703,LS,1061
+201510,Freshman,F,Filipino/Filipino-American,0,0,0,LS,NA,NA,1062
+201510,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1063
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,NA,AE,NA,NA,1064
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1065
+201510,Transfer,F,Chinese-American/Chinese,0,1,1,AE,201703,AE,1066
+201510,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1067
+201510,Freshman,F,Filipino/Filipino-American,0,0,0,AE,NA,NA,1068
+201510,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,1069
+201510,Transfer,M,Filipino/Filipino-American,0,0,0,EN,NA,NA,1070
+201510,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,EN,NA,NA,1071
+201510,Freshman,F,Korean-American/Korean,0,0,0,AE,NA,NA,1072
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1073
+201510,Transfer,F,Other Asian,0,1,1,LS,201710,LS,1074
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,BI,NA,NA,1075
+201510,Transfer,F,African-American/Black,1,1,NA,LS,201707,LS,1076
+201510,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,201707,LS,1077
+201510,Freshman,F,Korean-American/Korean,0,1,1,LS,NA,NA,1078
+201510,Freshman,F,Chinese-American/Chinese,0,1,0,LS,NA,NA,1079
+201510,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1080
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1081
+201510,Transfer,M,White/Caucasian,0,0,0,BI,NA,NA,1082
+201510,Freshman,F,White/Caucasian,0,0,0,AE,NA,NA,1083
+201510,Freshman,F,Chinese-American/Chinese,0,1,0,LS,NA,NA,1084
+201510,Transfer,M,Chinese-American/Chinese,0,1,0,LS,201703,LS,1085
+201510,Freshman,F,African-American/Black,1,0,1,LS,NA,NA,1086
+201510,Transfer,F,Chinese-American/Chinese,0,1,0,AE,201703,AE,1087
+201510,Transfer,F,Filipino/Filipino-American,0,0,0,AE,201703,AE,1088
+201510,Transfer,M,Latino/Other Spanish,1,1,1,LS,NA,NA,1089
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1090
+201510,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,EN,NA,NA,1091
+201510,Freshman,F,Chinese-American/Chinese,0,0,1,LS,NA,NA,1092
+201510,Freshman,F,White/Caucasian,0,0,0,BI,NA,NA,1093
+201510,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1094
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1095
+201510,Freshman,F,Vietnamese,0,0,1,BI,NA,NA,1096
+201510,Freshman,M,Latino/Other Spanish,1,1,0,EN,NA,NA,1097
+201510,Transfer,M,White/Caucasian,0,1,NA,EN,201703,EN,1098
+201510,Transfer,F,Chinese-American/Chinese,0,1,0,LS,201703,LS,1099
+201510,Transfer,M,Other Asian,0,1,1,AE,NA,NA,1100
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1101
+201510,Freshman,M,Other Asian,0,0,0,EN,NA,NA,1102
+201510,Freshman,F,Chinese-American/Chinese,0,1,0,AE,NA,NA,1103
+201510,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,LS,NA,NA,1104
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,AE,NA,NA,1105
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1106
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,EN,NA,NA,1107
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1108
+201510,Transfer,M,Vietnamese,0,1,1,EN,NA,NA,1109
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1110
+201510,Freshman,F,Latino/Other Spanish,1,1,0,LS,NA,NA,1111
+201510,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,1112
+201510,Transfer,F,White/Caucasian,0,0,1,AE,201703,LS,1113
+201510,Freshman,F,Latino/Other Spanish,1,0,0,AE,NA,NA,1114
+201510,Freshman,M,Chinese-American/Chinese,0,1,0,LS,NA,NA,1115
+201510,Freshman,M,Chinese-American/Chinese,0,1,0,LS,NA,NA,1116
+201510,Freshman,F,East Indian/Pakistani,0,0,0,EN,NA,NA,1117
+201510,Freshman,M,Other Asian,0,0,0,LS,NA,NA,1118
+201510,Transfer,M,East Indian/Pakistani,0,1,1,BI,201703,BI,1119
+201510,Transfer,F,Filipino/Filipino-American,0,0,0,AE,NA,NA,1120
+201510,Freshman,F,East Indian/Pakistani,0,0,0,BI,NA,NA,1121
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,AE,NA,NA,1122
+201510,Transfer,F,White/Caucasian,0,0,0,BI,201703,BI,1123
+201510,Freshman,F,Latino/Other Spanish,1,0,0,BI,NA,NA,1124
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,BI,NA,NA,1125
+201510,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,201703,LS,1126
+201510,Freshman,M,Chinese-American/Chinese,0,0,NA,LS,NA,NA,1127
+201510,Transfer,M,East Indian/Pakistani,0,NA,0,EN,201707,EN,1128
+201510,Freshman,F,Latino/Other Spanish,1,1,1,LS,NA,NA,1129
+201510,Transfer,F,White/Caucasian,0,1,1,LS,201703,LS,1130
+201510,Freshman,F,White/Caucasian,0,0,0,EN,NA,NA,1131
+201510,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1132
+201510,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1133
+201510,Freshman,F,Latino/Other Spanish,1,1,1,AE,NA,NA,1134
+201510,Freshman,F,Vietnamese,0,1,1,AE,NA,NA,1135
+201510,Freshman,F,White/Caucasian,0,1,0,BI,NA,NA,1136
+201510,Freshman,F,Korean-American/Korean,0,0,0,AE,NA,NA,1137
+201510,Freshman,M,Chinese-American/Chinese,0,0,0,BI,NA,NA,1138
+201510,Freshman,F,Other Asian,0,0,1,BI,NA,NA,1139
+201510,Freshman,M,White/Caucasian,0,0,0,AE,NA,NA,1140
+201510,Transfer,F,White/Caucasian,0,0,0,BI,NA,NA,1141
+201510,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,201703,BI,1142
+201510,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,1143
+201510,Freshman,M,Other Asian,0,1,0,BI,NA,NA,1144
+201510,Freshman,F,Chinese-American/Chinese,0,0,NA,AE,NA,NA,1145
+201510,Transfer,F,White/Caucasian,0,1,NA,LS,NA,NA,1146
+201510,Freshman,F,Chinese-American/Chinese,0,1,0,LS,NA,NA,1147
+201510,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1148
+201510,Transfer,M,Korean-American/Korean,0,1,0,AE,NA,NA,1149
+201510,Transfer,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,1150
+201510,Freshman,F,White/Caucasian,0,0,1,EN,NA,NA,1151
+201510,Transfer,M,Other Asian,0,1,0,LS,201703,AE,1152
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1153
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,BI,NA,NA,1154
+201510,Freshman,M,Other Asian,0,0,0,BI,NA,NA,1155
+201510,Transfer,F,White/Caucasian,0,0,0,LS,201707,LS,1156
+201510,Freshman,F,White/Caucasian,0,0,0,AE,NA,NA,1157
+201510,Freshman,M,White/Caucasian,0,0,0,BI,NA,NA,1158
+201510,Transfer,F,White/Caucasian,0,0,NA,LS,201703,LS,1159
+201510,Transfer,F,White/Caucasian,0,0,0,LS,201703,LS,1160
+201510,Transfer,F,Chinese-American/Chinese,0,1,1,AE,201703,AE,1161
+201510,Transfer,F,White/Caucasian,0,0,1,AE,NA,NA,1162
+201510,Transfer,M,Filipino/Filipino-American,0,0,0,LS,201707,AE,1163
+201510,Freshman,F,White/Caucasian,0,1,0,LS,NA,NA,1164
+201510,Freshman,M,White/Caucasian,0,1,0,AE,NA,NA,1165
+201510,Transfer,F,White/Caucasian,0,1,1,AE,201710,AE,1166
+201510,Transfer,F,White/Caucasian,0,0,0,LS,201707,LS,1167
+201510,Freshman,F,Latino/Other Spanish,1,1,1,LS,NA,NA,1168
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1169
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,AE,NA,NA,1170
+201510,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,1171
+201510,Freshman,M,White/Caucasian,0,0,0,AE,NA,NA,1172
+201510,Freshman,M,White/Caucasian,0,1,0,AE,NA,NA,1173
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1174
+201510,Freshman,F,East Indian/Pakistani,0,0,0,BI,NA,NA,1175
+201510,Transfer,M,White/Caucasian,0,1,NA,BI,201707,BI,1176
+201510,Freshman,M,African-American/Black,1,1,1,LS,NA,NA,1177
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1178
+201510,Freshman,M,Latino/Other Spanish,1,0,1,BI,NA,NA,1179
+201510,Freshman,F,Latino/Other Spanish,1,0,1,EN,NA,NA,1180
+201510,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,0,EN,NA,NA,1181
+201510,Freshman,F,Filipino/Filipino-American,0,0,0,EN,NA,NA,1182
+201510,Transfer,F,Chinese-American/Chinese,0,0,0,AE,NA,NA,1183
+201510,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,1184
+201510,Freshman,M,Japanese American/Japanese,0,1,0,EN,NA,NA,1185
+201510,Transfer,M,East Indian/Pakistani,0,1,NA,LS,NA,NA,1186
+201510,Freshman,F,Vietnamese,0,0,0,BI,NA,NA,1187
+201510,Freshman,M,White/Caucasian,0,0,0,BI,NA,NA,1188
+201510,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,1189
+201510,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1190
+201510,Freshman,F,Chinese-American/Chinese,0,1,0,BI,NA,NA,1191
+201510,Transfer,F,White/Caucasian,0,0,0,LS,201710,LS,1192
+201510,Freshman,M,Korean-American/Korean,0,0,0,LS,NA,NA,1193
+201510,Freshman,F,Other Asian,0,0,0,BI,NA,NA,1194
+201510,Transfer,F,Chinese-American/Chinese,0,0,0,AE,201703,AE,1195
+201510,Freshman,M,Korean-American/Korean,0,1,0,LS,NA,NA,1196
+201510,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,201703,AE,1197
+201510,Transfer,F,African-American/Black,1,1,0,BI,201710,BI,1198
+201510,Freshman,F,Korean-American/Korean,0,1,NA,LS,NA,NA,1199
+201510,Freshman,F,Japanese American/Japanese,0,1,1,LS,NA,NA,1200
+201510,Freshman,M,Chinese-American/Chinese,0,0,0,BI,NA,NA,1201
+201510,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,1202
+201510,Transfer,M,White/Caucasian,0,1,NA,LS,201701,LS,1203
+201510,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1204
+201510,Freshman,M,Chinese-American/Chinese,0,1,0,BI,NA,NA,1205
+201510,Freshman,M,Chinese-American/Chinese,0,1,0,AE,NA,NA,1206
+201510,Transfer,F,Mexican-Am/Mexican/Chicano,1,0,1,LS,NA,NA,1207
+201510,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,1208
+201510,Freshman,F,Chinese-American/Chinese,0,1,1,AE,NA,NA,1209
+201510,Freshman,M,Chinese-American/Chinese,0,1,0,EN,NA,NA,1210
+201510,Transfer,M,Vietnamese,0,0,0,BI,201703,BI,1211
+201510,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1212
+201510,Freshman,M,Filipino/Filipino-American,0,0,0,EN,NA,NA,1213
+201510,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1214
+201510,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,0,BI,NA,NA,1215
+201510,Freshman,F,African-American/Black,1,0,0,LS,NA,NA,1216
+201610,Transfer,M,Filipino/Filipino-American,0,1,0,EN,NA,NA,1217
+201610,Freshman,F,African-American/Black,1,0,0,BI,NA,NA,1218
+201610,Transfer,M,African-American/Black,1,0,NA,AE,NA,NA,1219
+201610,Transfer,M,White/Caucasian,0,1,1,AE,NA,NA,1220
+201610,Transfer,F,White/Caucasian,0,1,0,LS,NA,NA,1221
+201610,Transfer,M,Chinese-American/Chinese,0,1,0,LS,NA,NA,1222
+201610,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1223
+201610,Freshman,F,Vietnamese,0,0,0,BI,NA,NA,1224
+201610,Transfer,F,Filipino/Filipino-American,0,NA,0,LS,NA,NA,1225
+201610,Transfer,F,White/Caucasian,0,0,NA,AE,NA,NA,1226
+201610,Transfer,F,Other Asian,0,NA,1,BI,NA,NA,1227
+201610,Freshman,F,Chinese-American/Chinese,0,0,1,BI,NA,NA,1228
+201610,Freshman,F,Vietnamese,0,1,1,LS,NA,NA,1229
+201610,Freshman,F,Latino/Other Spanish,1,1,1,BI,NA,NA,1230
+201610,Transfer,F,African-American/Black,1,0,1,AE,NA,NA,1231
+201610,Freshman,F,Chinese-American/Chinese,0,1,1,LS,NA,NA,1232
+201610,Freshman,F,Other Asian,0,0,0,BI,NA,NA,1234
+201610,Transfer,M,Chinese-American/Chinese,0,1,1,LS,NA,NA,1235
+201610,Freshman,M,Korean-American/Korean,0,0,NA,LS,NA,NA,1236
+201610,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,1237
+201610,Transfer,M,Filipino/Filipino-American,0,0,0,BI,NA,NA,1238
+201610,Freshman,F,White/Caucasian,0,0,1,AE,NA,NA,1239
+201610,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1240
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1241
+201610,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1242
+201610,Freshman,F,Korean-American/Korean,0,0,0,LS,NA,NA,1243
+201610,Transfer,F,White/Caucasian,0,0,0,AE,NA,NA,1244
+201610,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1245
+201610,Transfer,F,Chinese-American/Chinese,0,NA,0,AE,NA,NA,1246
+201610,Freshman,F,White/Caucasian,0,0,NA,BI,NA,NA,1247
+201610,Freshman,F,African-American/Black,1,0,1,LS,NA,NA,1248
+201610,Transfer,M,Other Asian,0,1,1,BI,NA,NA,1249
+201610,Transfer,M,White/Caucasian,0,0,0,LS,NA,NA,1250
+201610,Transfer,F,White/Caucasian,0,0,NA,LS,NA,NA,1251
+201610,Freshman,M,Other Asian,0,0,0,LS,NA,NA,1252
+201610,Freshman,F,Chinese-American/Chinese,0,1,1,BI,NA,NA,1253
+201610,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,1255
+201610,Freshman,F,Filipino/Filipino-American,0,0,0,LS,NA,NA,1256
+201610,Transfer,F,Latino/Other Spanish,1,1,NA,AE,NA,NA,1257
+201610,Transfer,M,White/Caucasian,0,0,1,BI,NA,NA,1258
+201610,Transfer,F,Chinese-American/Chinese,0,1,1,LS,NA,NA,1259
+201610,Transfer,M,East Indian/Pakistani,0,1,1,BI,NA,NA,1260
+201610,Freshman,M,Chinese-American/Chinese,0,1,0,BI,NA,NA,1261
+201610,Freshman,F,Filipino/Filipino-American,0,1,0,AE,NA,NA,1262
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,0,AE,NA,NA,1263
+201610,Freshman,M,Chinese-American/Chinese,0,0,NA,AE,NA,NA,1264
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,NA,BI,NA,NA,1265
+201610,Transfer,M,Filipino/Filipino-American,0,1,1,BI,NA,NA,1266
+201610,Freshman,M,Chinese-American/Chinese,0,1,0,LS,NA,NA,1267
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1268
+201610,Freshman,F,African-American/Black,1,0,0,LS,NA,NA,1269
+201610,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1270
+201610,Freshman,F,White/Caucasian,0,1,0,BI,NA,NA,1271
+201610,Freshman,F,African-American/Black,1,0,1,LS,NA,NA,1272
+201610,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1273
+201610,Freshman,F,Chinese-American/Chinese,0,0,0,AE,NA,NA,1274
+201610,Transfer,M,Korean-American/Korean,0,0,0,LS,NA,NA,1275
+201610,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,BI,NA,NA,1276
+201610,Transfer,M,Korean-American/Korean,0,1,0,AE,NA,NA,1277
+201610,Freshman,M,Chinese-American/Chinese,0,NA,0,LS,NA,NA,1278
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1279
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1280
+201610,Freshman,M,Latino/Other Spanish,1,0,0,EN,NA,NA,1281
+201610,Freshman,F,Filipino/Filipino-American,0,1,0,BI,NA,NA,1282
+201610,Freshman,F,Japanese American/Japanese,0,1,0,EN,NA,NA,1283
+201610,Transfer,F,White/Caucasian,0,1,NA,AE,NA,NA,1284
+201610,Freshman,M,Vietnamese,0,0,0,EN,NA,NA,1285
+201610,Freshman,F,Vietnamese,0,1,0,LS,NA,NA,1286
+201610,Freshman,F,Latino/Other Spanish,1,1,1,BI,NA,NA,1287
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1288
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,0,1,LS,NA,NA,1289
+201610,Freshman,M,Filipino/Filipino-American,0,1,1,BI,NA,NA,1290
+201610,Transfer,M,White/Caucasian,0,0,0,AE,NA,NA,1291
+201610,Freshman,F,White/Caucasian,0,0,0,EN,NA,NA,1292
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1293
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1294
+201610,Freshman,F,White/Caucasian,0,1,0,EN,NA,NA,1295
+201610,Freshman,M,Chinese-American/Chinese,0,NA,1,EN,NA,NA,1296
+201610,Freshman,F,Vietnamese,0,1,1,BI,NA,NA,1297
+201610,Freshman,M,East Indian/Pakistani,0,0,0,EN,NA,NA,1298
+201610,Freshman,F,White/Caucasian,0,0,NA,LS,NA,NA,1299
+201610,Freshman,F,White/Caucasian,0,0,0,BI,NA,NA,1300
+201610,Transfer,F,Chinese-American/Chinese,0,1,0,LS,NA,NA,1301
+201610,Freshman,M,Chinese-American/Chinese,0,0,0,EN,NA,NA,1302
+201610,Freshman,F,Chinese-American/Chinese,0,0,1,EN,NA,NA,1303
+201610,Transfer,M,White/Caucasian,0,0,NA,LS,NA,NA,1304
+201610,Transfer,M,Chinese-American/Chinese,0,0,0,BI,NA,NA,1305
+201610,Transfer,M,Chinese-American/Chinese,0,0,1,LS,NA,NA,1306
+201610,Freshman,F,Latino/Other Spanish,1,1,NA,AE,NA,NA,1307
+201610,Freshman,M,East Indian/Pakistani,0,1,0,BI,NA,NA,1308
+201610,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,0,AE,NA,NA,1309
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1310
+201610,Freshman,F,Chinese-American/Chinese,0,1,0,BI,NA,NA,1311
+201610,Freshman,M,Japanese American/Japanese,0,0,0,BI,NA,NA,1312
+201610,Freshman,M,Other Asian,0,0,0,EN,NA,NA,1313
+201610,Transfer,F,White/Caucasian,0,NA,NA,AE,NA,NA,1314
+201610,Transfer,M,Other Asian,0,1,1,LS,NA,NA,1315
+201610,Transfer,F,White/Caucasian,0,1,1,AE,NA,NA,1316
+201610,Freshman,F,White/Caucasian,0,0,NA,LS,NA,NA,1317
+201610,Transfer,M,Chinese-American/Chinese,0,1,0,LS,NA,NA,1318
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1319
+201610,Freshman,M,White/Caucasian,0,0,0,EN,NA,NA,1320
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1321
+201610,Freshman,F,Latino/Other Spanish,1,0,0,LS,NA,NA,1322
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,NA,EN,NA,NA,1323
+201610,Freshman,F,Chinese-American/Chinese,0,NA,NA,AE,NA,NA,1324
+201610,Transfer,M,Other Asian,0,1,NA,AE,NA,NA,1325
+201610,Freshman,F,Latino/Other Spanish,1,0,NA,LS,NA,NA,1326
+201610,Transfer,M,Japanese American/Japanese,0,0,NA,LS,NA,NA,1327
+201610,Transfer,F,Filipino/Filipino-American,0,1,0,LS,NA,NA,1328
+201610,Freshman,F,East Indian/Pakistani,0,0,0,BI,NA,NA,1329
+201610,Freshman,F,Chinese-American/Chinese,0,0,0,BI,NA,NA,1330
+201610,Freshman,F,Latino/Other Spanish,1,1,0,LS,NA,NA,1331
+201610,Freshman,F,Latino/Other Spanish,1,0,NA,BI,NA,NA,1332
+201610,Freshman,M,East Indian/Pakistani,0,0,0,AE,NA,NA,1333
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,0,1,LS,NA,NA,1334
+201610,Transfer,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1335
+201610,Transfer,F,Chinese-American/Chinese,0,1,0,BI,NA,NA,1336
+201610,Transfer,F,White/Caucasian,0,0,0,AE,NA,NA,1337
+201610,Freshman,F,White/Caucasian,0,0,0,BI,NA,NA,1338
+201610,Transfer,M,White/Caucasian,0,NA,0,BI,NA,NA,1339
+201610,Freshman,F,Other Asian,0,0,0,BI,NA,NA,1340
+201610,Transfer,F,Unknown,NA,NA,NA,LS,NA,NA,1341
+201610,Freshman,F,Chinese-American/Chinese,0,0,0,AE,NA,NA,1342
+201610,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,1343
+201610,Transfer,F,White/Caucasian,0,0,NA,LS,NA,NA,1344
+201610,Transfer,M,Latino/Other Spanish,1,0,0,LS,NA,NA,1345
+201610,Transfer,M,Vietnamese,0,0,0,LS,NA,NA,1346
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,0,0,EN,NA,NA,1347
+201610,Transfer,F,Chinese-American/Chinese,0,1,1,AE,NA,NA,1348
+201610,Transfer,M,Chinese-American/Chinese,0,1,0,LS,201710,AE,1349
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1350
+201610,Freshman,F,Other Asian,0,0,0,AE,NA,NA,1351
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1352
+201610,Freshman,M,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1353
+201610,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,1,LS,NA,NA,1354
+201610,Freshman,M,White/Caucasian,0,1,1,BI,NA,NA,1355
+201610,Freshman,F,Chinese-American/Chinese,0,1,1,LS,NA,NA,1356
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,NA,AE,NA,NA,1357
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1358
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1359
+201610,Transfer,M,White/Caucasian,0,0,NA,LS,NA,NA,1360
+201610,Freshman,F,White/Caucasian,0,1,1,BI,NA,NA,1361
+201610,Transfer,M,White/Caucasian,0,0,0,LS,NA,NA,1362
+201610,Freshman,M,White/Caucasian,0,0,0,AE,NA,NA,1363
+201610,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1364
+201610,Transfer,M,White/Caucasian,0,0,0,LS,NA,NA,1365
+201610,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,1366
+201610,Freshman,M,Chinese-American/Chinese,0,0,NA,AE,NA,NA,1367
+201610,Transfer,F,White/Caucasian,0,1,0,LS,NA,NA,1368
+201610,Freshman,M,White/Caucasian,0,0,0,BI,NA,NA,1369
+201610,Freshman,M,Chinese-American/Chinese,0,1,1,LS,NA,NA,1370
+201610,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,0,BI,NA,NA,1371
+201610,Freshman,M,Chinese-American/Chinese,0,1,0,LS,NA,NA,1372
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1373
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1374
+201610,Transfer,F,White/Caucasian,0,1,0,EN,NA,NA,1375
+201610,Transfer,M,Chinese-American/Chinese,0,1,1,AE,NA,NA,1376
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,AE,NA,NA,1377
+201610,Freshman,F,Latino/Other Spanish,1,1,1,LS,NA,NA,1378
+201610,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1379
+201610,Transfer,F,Vietnamese,0,1,1,LS,NA,NA,1380
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1381
+201610,Freshman,M,East Indian/Pakistani,0,0,0,EN,NA,NA,1382
+201610,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1383
+201610,Freshman,F,White/Caucasian,0,0,0,LS,NA,NA,1384
+201610,Freshman,M,White/Caucasian,0,0,1,BI,NA,NA,1385
+201610,Freshman,F,East Indian/Pakistani,0,1,0,LS,NA,NA,1386
+201610,Transfer,M,East Indian/Pakistani,0,0,0,LS,NA,NA,1387
+201610,Freshman,M,White/Caucasian,0,0,0,LS,NA,NA,1388
+201610,Freshman,M,Unknown,NA,1,1,EN,NA,NA,1389
+201610,Transfer,F,Chinese-American/Chinese,0,1,0,LS,NA,NA,1390
+201610,Freshman,F,White/Caucasian,0,0,0,BI,NA,NA,1391
+201610,Freshman,F,Chinese-American/Chinese,0,0,0,LS,NA,NA,1392
+201610,Freshman,F,Chinese-American/Chinese,0,0,0,AE,NA,NA,1393
+201610,Freshman,F,Latino/Other Spanish,1,0,0,LS,NA,NA,1394
+201610,Transfer,M,White/Caucasian,0,0,NA,LS,NA,NA,1395
+201610,Transfer,M,White/Caucasian,0,0,0,LS,NA,NA,1396
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,AE,NA,NA,1397
+201610,Transfer,F,Vietnamese,0,1,1,BI,NA,NA,1398
+201610,Freshman,M,Japanese American/Japanese,0,0,0,LS,NA,NA,1399
+201610,Freshman,M,Korean-American/Korean,0,0,0,EN,NA,NA,1400
+201610,Freshman,F,White/Caucasian,0,1,0,LS,NA,NA,1401
+201610,Freshman,F,Other Asian,0,0,1,EN,NA,NA,1402
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,0,1,AE,NA,NA,1403
+201610,Freshman,F,White/Caucasian,0,0,NA,BI,NA,NA,1404
+201610,Freshman,M,White/Caucasian,0,0,0,AE,NA,NA,1405
+201610,Transfer,F,White/Caucasian,0,0,0,AE,NA,NA,1406
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,1,LS,NA,NA,1407
+201610,Freshman,F,Latino/Other Spanish,1,1,0,BI,NA,NA,1408
+201610,Transfer,F,Chinese-American/Chinese,0,0,1,LS,NA,NA,1409
+201610,Freshman,F,White/Caucasian,0,0,0,EN,NA,NA,1410
+201610,Freshman,M,Chinese-American/Chinese,0,0,0,LS,NA,NA,1411
+201610,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,0,LS,NA,NA,1412
+201610,Freshman,M,Unknown,NA,1,0,LS,NA,NA,1413
+201610,Transfer,F,East Indian/Pakistani,0,1,NA,AE,NA,NA,1414
+201610,Freshman,M,Other Asian,0,1,0,EN,NA,NA,1415
+201610,Freshman,F,Japanese American/Japanese,0,0,0,LS,NA,NA,1416
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,BI,NA,NA,1417
+201610,Freshman,F,White/Caucasian,0,0,0,EN,NA,NA,1418
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,NA,1,BI,NA,NA,1419
+201610,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,NA,BI,NA,NA,1420
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,BI,NA,NA,1421
+201610,Freshman,F,Filipino/Filipino-American,0,1,0,LS,NA,NA,1422
+201610,Transfer,F,White/Caucasian,0,0,0,AE,NA,NA,1423
+201610,Transfer,M,Mexican-Am/Mexican/Chicano,1,1,0,EN,NA,NA,1424
+201610,Freshman,F,Chinese-American/Chinese,0,1,0,BI,NA,NA,1425
+201610,Freshman,F,Korean-American/Korean,0,0,0,LS,NA,NA,1426
+201610,Transfer,F,Mexican-Am/Mexican/Chicano,1,1,0,LS,NA,NA,1427
+201610,Freshman,M,Other Asian,0,0,0,EN,NA,NA,1428
+201610,Freshman,F,Other Asian,0,0,0,EN,NA,NA,1429
+201610,Freshman,M,Mexican-Am/Mexican/Chicano,1,0,0,BI,NA,NA,1430
+201610,Freshman,F,Korean-American/Korean,0,1,0,BI,NA,NA,1431
+201610,Freshman,F,Other Asian,0,0,0,BI,NA,NA,1432
+201610,Freshman,F,Unknown,NA,0,0,LS,NA,NA,1433
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,AE,NA,NA,1434
+201610,Freshman,F,Mexican-Am/Mexican/Chicano,1,1,0,BI,NA,NA,1435
